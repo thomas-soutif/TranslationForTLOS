@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português (BR)" />
+  </tags>
+  <strings>
+    <string id="adSikaTwoHandedStick" text="Bastão Sika de Duas Mãos" />
+	<string id="adSikaTwoHandedSword" text="Espada Sika de Duas Mãos" />
+	<string id="adSikaOneHandedSwordFour" text="Espada Sika de Uma Mão Four" />
+	<string id="adSikaOneHandedSwordThree" text="Espada Sika de Uma Mão Three" />
+	<string id="adSikaSwingPolearm" text="Bastão Sika" />
+	<string id="adSikaOneHandedMace" text="Maça Sika" />
+	<string id="adSikaTwoHandedMace" text="Marreta Sika" />
+	<string id="adSikaSpearPikePolearm" text="Pique Sika" />
+	<string id="adqinglongyanyuedao_grip" text="Cabo de Faca Qinglong Yanyue" />
+	<string id="adqinglongyanyuedao_pommel" text="Pomo de Faca Qinglong Yanyue" />
+	<string id="adqinglongyanyuedao_blade" text="Lâmina Qinglong Yanyue" />
+	<string id="adqinglongyanyuedao_guard" text="Guarda-mão Qinglong Yanyue" />
+	<string id="addadao_blade" text="Lâmina de Dadao" />
+	<string id="addadao_guard" text="Guarda-mão de Dadao" />
+	<string id="addadao_grip" text="Cabo de Dadao" />
+	<string id="addadao_pommel" text="Pomo de Dadao" />
+	<string id="adfangtianhuaji_grip" text="Cabo de Fangtianhuaji" />
+	<string id="adfangtianhuaji_pommel" text="Pomo de Fangtianhuaji" />
+	<string id="adfangtianhuaji_blade" text="Lâmina de Fangtianhuaji" />
+	<string id="adfangtianhuaji_guard" text="Guarda-mão de Fangtianhuaji" />
+	<string id="adtaijijian_blade" text="Lâmina de Espada Taiji" />
+	<string id="adtaijijian_guard" text="Guarda-mão de Espada Taiji" />
+	<string id="adtaijijian_grip" text="Pomo de Espada Taiji" />
+	<string id="adtaijijian_pommel" text="Pomo de Espada Taiji" />
+	<string id="adjingubang_grip" text="Cabo de Aro de Ouro" />
+	<string id="adjingu" text="Aro de Ouro" />
+	<string id="adjingu2" text="Aro de Ouro 2" />
+	<string id="adqinglongyanyuedao" text="Qinglong Yanyuedao" />
+	<string id="adbang" text="Aro de Ouro" />
+	<string id="adfangtianhuaji" text="Fangtian Huaji" />
+	<string id="addadao" text="Dadao" />
+	<string id="adtaijijian" text="Espada Taiji" />
+	<string id="adpodao" text="Podao" />
+	<string id="adpodao_grip" text="Cabo de Espada Podao" />
+	<string id="adpodao_pommel" text="Pomo de Espada Podao" />
+	<string id="adpodao_blade" text="Lâmina de Espada Podao" />
+	<string id="adpodao_guard" text="Guarda-mão de Espada Podao" />
+	<string id="admodao" text="Modao" />
+	<string id="admodao_grip" text="Cabo Modao" />
+	<string id="admodao_pommel" text="Pomo de Modao" />
+	<string id="admodao_blade" text="Lâmina de Modao" />
+	<string id="admodao_guard" text="Guarda-mão de Modao" />
+	<string id="admashuo" text="Mashuo" />
+	<string id="admashuo_grip" text="Cabo de Mashuo" />
+	<string id="admashuo_pommel" text="Pomo de Mashuo" />
+	<string id="admashuo_blade" text="Lâmina de Mashuo" />
+	<string id="admashuo_guard" text="Guarda-mão de Mashuo" />
+	<string id="admiaodao" text="Miao Dao" />
+	<string id="admiaodao_blade" text="Lâmina de Miao Dao" />
+	<string id="admiaodao_guard" text="Guarda-mão de Miao Dao" />
+	<string id="admiaodao_grip" text="Cabo de Miao Dao" />
+	<string id="admiaodao_pommel" text="Pomo de Miao Dao" />
+	<string id="adyidao" text="Yi Dao" />
+	<string id="adyidao_blade" text="Lâmina de Yi Dao" />
+	<string id="adyidao_guard" text="Guarda-mão de Yi Dao" />
+	<string id="adyidao_grip" text="Cabo de Yi Dao" />
+	<string id="adyidao_pommel" text="Pomo de Yi Dao" />
+	<string id="adyanlingdao_blade" text="Lâmina de Espada Yanling" />
+	<string id="adyanlingdao_guard" text="Guarda-mão de Espada Yanling" />
+	<string id="adyanlingdao_grip" text="Cabo de Espada Yanling" />
+	<string id="adyanlingdao_pommel" text="Pomo de Espada Yanling" />
+	<string id="adyanlingdao" text="Espada Yanling" />
+	<string id="adhengdao_blade" text="Lâmina de Hengdao" />
+	<string id="adhengdao_guard" text="Guarda-mão de Hengdao" />
+	<string id="adhengdao_grip" text="Cabo de Hengdao" />
+	<string id="adhengdao" text="Hengdao" />
+	<string id="adjianyihengdao" text="Jianyi Hengdao" />
+	<string id="adjianyihengdao_blade" text="Lâmina de Jianyi Hengdao" />
+	<string id="adjianyihengdao_guard" text="Guarda-mão de Jianyi Hengdao" />
+	<string id="adjianyihengdao_grip" text="Cabo de Jianyi Hengdao" />
+	<string id="adjianyihengdao_pommel" text="Pomo de Jianyi Hengdao" />
+	<string id="adjingua_blade" text="Lâmina de Jingua" />
+	<string id="adjingua_guard" text="Guarda-mão de Jingua" />
+	<string id="adjingua_grip" text="Cabo de Jingua" />
+	<string id="adjingua_pommel" text="Pomo de Jingua" />
+	<string id="adjingua" text="Jingua" />
+	<string id="adgangbian_blade" text="Lâmina de Gangbian" />
+	<string id="adgangbian_guard" text="Guarda-mão de Gangbian" />
+	<string id="adgangbian_grip" text="Cabo de Gangbian" />
+	<string id="adgangbian_pommel" text="Pomo de Gangbian" />
+	<string id="adgangbian" text="Gangbian" />
+	<string id="adzhongxinggangbian" text="Gangbian Pesado" />
+	<string id="adzhongxinggangbian_blade" text="Lâmina de Gangbian Pesado" />
+	<string id="adzhongxinggangbian_guard" text="Guarda-mão de Gangbian Pesado" />
+	<string id="adzhongxinggangbian_grip" text="Cabo de Gangbian Pesado" />
+	<string id="adzhongxinggangbian_pommel" text="Pomo de Gangbian Pesado" />
+	<string id="adcubuyi" text="Roupa Grosseira Chinesa" />
+	<string id="adfaji" text="Faji" />
+	<string id="adcubukuzi" text="Calças Grosseiras Chinesas" />
+	<string id="adjianyipijia" text="Armadura de Couro Simples" />
+	<string id="adtangdaitoujin" text="Lenço da Dinastia Tang" />
+	<string id="adjianyipiku" text="Calças de Couro Simples" />
+	<string id="adjianyipizhihuwan" text="Braçadeiras de Couro Simples" />
+	<string id="addatangfubingxiongjia" text="Armadura Negra de Escamas Simples" />
+	<string id="addatangfubingjianjia" text="Zhajia Negra Simples" />
+	<string id="addatangfubinghuwan" text="Braçadeiras de Escamas Negras Simples" />
+	<string id="addatangfubingtoukui" text="Elmo Negro" />
+	<string id="addatangfubingxie" text="Botas de Couro Datang" />
+	<string id="adbianjunzhongbubingxiongjia" text="Armadura Pesada" />
+	<string id="adbianjunzhongbubingtoukui" text="Capacete Pesado" />
+	<string id="adbianjunhuwan" text="Braçadeira Datang Zhajia" />
+	<string id="adbianjunzhongbubingjianjia" text="Braçadeiras Pesadas" />
+	<string id="adbianjunjianjia" text="Ombreiras Datang Zhajia" />
+	<string id="adbianjunxiongjia" text="Peitoral Datang Zhajia" />
+	<string id="adbianjuntoukui" text="Elmo Datang Zhajia" />
+	<string id="adbianjunxie" text="Botas de Infantaria Datang" />
+	<string id="admodaoduixiongjia" text="Golden Lacquer Mountain Wenjia" />
+	<string id="adfengchidoumou" text="Phoenix wing pockets" />
+	<string id="admodaoduijianjia" text="Golden paint beast head swallows shoulder" />
+	<string id="admodaoduixie" text="Grevas de Rebite de Laca Dourada" />
+	<string id="admodaoduihuwan" text="Braçadeiras de Rebite de Laca Dourada" />
+	<string id="adqianniuweidoumou" text="Heavy Dragon Head Zhajia Pocket Sun" />
+	<string id="adqianniuweixiongjia" text="Armadura Pesada Mingguang de Laca Dourada" />
+    <string id="adlongwujunxiongjia" text="Armadura de Correntes Mingguang" />
+	<string id="adlongwujunjianjia" text="Ombreiras Baixas de Escamas de Besta" />
+	<string id="adlongwujunxie" text="Botas de Placa de Laca Dourada" />
+	<string id="adlongwujunhuwan" text="Braçadeiras de Placa de Laca Dourada" />
+	<string id="adxuanjiajunxiongjia" text="Mingguang Xuanjinjia" />
+    <string id="adxuanjiajunjianjia" text="Beast mouth mountain Wenjia swallow shoulder" />
+	<string id="adxuanjiajunxie" text="Botas de Ouro Misteriosas" />
+	<string id="adxuanjiajunhuwan" text="Braçadeiras de Ouro" />
+	<string id="adxuanjiajundoumou" text="Armadura de Ouro" />
+	<string id="adyingwujunxiongjia" text="Armadura de Escamas Brilhantes Leves" />
+	<string id="adyingwujundoumou" text="Light archer doudoudou" />
+	<string id="adyingwujunxie" text="Botas de Montaria Negras" />
+	<string id="admupai" text="wooden sign" />
+	<string id="adsanchenchangpai" text="Wubiansanchenchangpai" />
+	<string id="adtangdainongmin" text="Xiang Yong" />
+	<string id="adtangdaiminbing" text="Regiment training" />
+	<string id="adfubingweishi" text="fubing guard" />
+	<string id="adfubinggongshou" text="fubing archers" />
+    <string id="adbianjunchangqiangshou" text="Frontier Heavy Pikemen" />
+	<string id="adbianjundaopai" text="Frontier Heavy Swordsman" />
+	<string id="adshuofangjun" text="Shuofangjun Turkic followers" />
+	<string id="adbianjungongshou" text="frontier shooter" />
+	<string id="admodaodui" text="Anxi Army Modao Pioneer" />
+	<string id="adqianniuwei" text="Qianniuwei Imperial Swordsman Suwei" />
+	<string id="adlongwujun" text="Dragon Wujun Flying Knight Guard" />
+	<string id="adyingwujun" text="Yingwujun front archer" />
+	<string id="adxuanjiajun" text="Xuanjiajun" />
+	<string id="adtongyongjian" text="Infantry arrows" />
+	<string id="adxuanjiamaju" text="Xuanjia horse armor" />
+  </strings>
+</base>

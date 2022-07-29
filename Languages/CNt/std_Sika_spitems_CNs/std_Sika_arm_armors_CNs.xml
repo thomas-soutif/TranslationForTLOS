@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+  <!-- 手甲护臂的简体中文文本 -->
+  <!-- 炎朝 -->
+    <string id="AAJDY01" text="新兵缠手" />
+    <string id="AAJDY02" text="白色皮护臂" />
+    <string id="AAJDY03" text="简易黑鳞甲护腕" />
+    <string id="AAJDY04" text="札甲护臂" />
+    <string id="AAJDY05" text="重型札甲护臂" />
+    <string id="AAJDY06" text="金漆镶钉护腕" />
+    <string id="AAJDY07" text="金漆天王护臂" />
+    <string id="AAJDY08" text="玄金天王护臂" />
+    <string id="AAJDY09" text="大炎札甲护腕" />
+
+  <!-- 埃布拉蒙 -->
+    <string id="AARBL01" text="皮革浮点护臂" />
+    <string id="AARBL02" text="皮制填充护臂" />
+  <!-- 纳堪维亚 -->
+    <string id="AANKN01" text="方格覆板手套" />
+  <!-- 落月 -->
+    <string id="AALMC01" text="落月足轻手甲" />
+    <string id="AALMC02" text="落月武士手甲" />
+    <string id="AALMC03" text="落月具足手甲" />
+  <!-- 雅瑞安 -->
+    <string id="AAYRN01" text="雅瑞安部落绑臂" />
+  <!-- 其他 -->
+    <string id="AASTY01" text="暗黑臂铠" />
+    <string id="AASTY02" text="希绝骑士臂铠" />
+  </strings>
+</base>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+  <!-- 胸甲的简体中文文本 -->
+  <!-- 炎朝 -->
+    <string id="BAJDY01" text="交领右衽" />
+    <string id="BAJDY02" text="乡勇布衣" />
+    <string id="BAJDY03" text="简易皮制胸甲" />
+    <string id="BAJDY04" text="皮质轻型胸甲" />
+    <string id="BAJDY05" text="简易黑鳞甲" />
+    <string id="BAJDY06" text="轻型束腰步人甲" />
+    <string id="BAJDY07" text="两裆白布黑鳞甲" />
+    <string id="BAJDY08" text="全装两裆步人甲带护心镜" />
+    <string id="BAJDY09" text="全装两裆铁甲" />
+    <string id="BAJDY10" text="黑色合裆步人甲" />
+    <string id="BAJDY11" text="黑色合裆铁甲" />
+    <string id="BAJDY12" text="两裆兽面铁甲" />
+    <string id="BAJDY13" text="银色鳞甲带护心镜" />
+    <string id="BAJDY14" text="金漆山文甲" />
+    <string id="BAJDY15" text="金漆明光重型札甲" />
+    <string id="BAJDY16" text="明光锁子甲" />
+    <string id="BAJDY17" text="明光玄金甲" />
+    <string id="BAJDY18" text="轻型明光鳞甲" />
+    <string id="BAJDY19" text="粗制山文甲" />
+    <string id="BAJDY20" text="粗制明光札甲" />
+    <string id="BAJDY21" text="粗制明光锁子甲" />
+    <string id="BAJDY22" text="粗制明光金甲" />
+    <string id="BAJDY23" text="粗制明光鳞甲" />
+
+  <!-- 普若尤恩 -->
+    <string id="BAPRU01" text="普若尤恩轻型骑兵甲" />
+    <string id="BAPRU02" text="束腰防护链铠" />
+    <string id="BAPRU03" text="普若尤恩轻型步兵甲" />
+    <string id="BAPRU04" text="填充弓兵武装衣" />
+    <string id="BAPRU05" text="镶钉皮制护甲" />
+    <string id="BAPRU06" text="普若尤恩荣誉骑士甲" />
+    <string id="BAPRU07" text="普若尤恩民兵衣" />
+    <string id="BAPRU08" text="普若尤恩破阵板甲" />
+    <string id="BAPRU09" text="普若尤恩领主板甲" />
+  <!-- 埃布拉蒙 -->
+    <string id="BARBL01" text="直身镶钉皮护具" />
+    <string id="BARBL02" text="长袍马穆鲁克重铠" />
+    <string id="BARBL03" text="埃布拉蒙马穆鲁克鳞甲" />
+  <!-- 蒙戈黎安 -->
+    <string id="BAMGR01" text="蒙戈黎安轻皮甲" />
+    <string id="BAMGR02" text="蒙戈黎安绒面甲" />
+  <!-- 纳堪维亚 -->
+    <string id="BANKN01" text="皮短袖衣" />
+    <string id="BANKN02" text="条纹甲" />
+    <string id="BANKN03" text="兽皮外衬罩甲" />
+    <string id="BANKN04" text="双层重型链札甲" />
+  <!-- 乌拉索维 -->
+    <string id="BAWLT01" text="林地链甲衫" />
+    <string id="BAWLT02" text="乌拉索维兽皮甲" />
+    <string id="BAWLT03" text="乌拉索维林地衣" />
+  <!-- 落月 -->
+    <string id="BALMC01" text="落月民夫衣" />
+    <string id="BALMC02" text="落月足轻衣" />
+    <string id="BALMC03" text="落月腹当" />
+    <string id="BALMC04" text="落月胴丸" />
+    <string id="BALMC05" text="落月足轻甲" />
+    <string id="BALMC06" text="落月胸甲" />
+    <string id="BALMC07" text="落月武士甲" />
+    <string id="BALMC08" text="落月具足胸甲" />
+  <!-- 雅瑞安 -->
+    <string id="BAYRN01" text="雅瑞安族人衣" />
+    <string id="BAYRN02" text="雅瑞安部落衣" />
+    <string id="BAYRN03" text="雅瑞安部落甲" />
+    <string id="BAYRN04" text="雅瑞安部落战士甲" />
+    <string id="BAYRN05" text="雅瑞安部落勇士甲" />
+    <string id="BAYRN06" text="雅瑞安丛林战衣" />
+    <string id="BAYRN07" text="雅瑞安神鹫战衣" />
+    <string id="BAYRN08" text="雅瑞安鬣蜥战衣" />
+  <!-- 其他 -->
+    <string id="BASTY01" text="暗黑板甲" />
+    <string id="BASTY02" text="怪物身体" />
+    <string id="BASTY03" text="希绝骑士全身甲" />
+    <string id="BASTY04" text="厚实表皮" />
+    <string id="BASTY05" text="黑色长袍" />
+  <!-- 特殊小家族 -->
+    <string id="BAMNR01" text="冥魂幽甲" />
+  </strings>
+</base>

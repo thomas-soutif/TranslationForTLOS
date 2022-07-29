@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文"/>
+  </tags>
+  <strings>
+    <!-- 家族名的简体中文 -->
+    <!-- 雅瑞安 -->
+    <string id="CLNYRN01" text="查伊"/>
+    <string id="CLNYRN02" text="科阿"/>
+    <string id="CLNYRN03" text="哈巫"/>
+    <string id="CLNYRN04" text="克欧"/>
+    <string id="CLNYRN05" text="亚米"/>
+    <string id="CLNYRN06" text="卡巴"/>
+    <string id="CLNYRN07" text="巴拉木"/>
+    <string id="CLNYRN08" text="库目"/>
+    <string id="CLNYRN09" text="那哈巫"/>
+
+    <!-- 落月 -->
+    <string id="CLNLMC01" text="宫田"/>
+    <string id="CLNLMC02" text="渡藤"/>
+    <string id="CLNLMC03" text="佐木"/>
+    <string id="CLNLMC04" text="竹野"/>
+    <string id="CLNLMC05" text="川崎"/>
+    <string id="CLNLMC06" text="杉岛"/>
+    <string id="CLNLMC07" text="武内"/>
+    <string id="CLNLMC08" text="吉部"/>
+    <string id="CLNLMC09" text="橘源"/>
+
+    <!-- 炎 -->
+    <string id="CLNJDY01" text="萧"/>
+    <string id="CLNJDY02" text="墨"/>
+    <string id="CLNJDY03" text="凌"/>
+    <string id="CLNJDY04" text="叶"/>
+    <string id="CLNJDY05" text="林"/>
+    <string id="CLNJDY06" text="南宫"/>
+    <string id="CLNJDY07" text="上官"/>
+    <string id="CLNJDY08" text="独孤"/>
+    <string id="CLNJDY09" text="欧阳"/>
+
+    <string id="CLNJDY10" text="李"/>
+    <string id="CLNJDY11" text="王"/>
+    <string id="CLNJDY12" text="刘"/>
+    <string id="CLNJDY13" text="朱"/>
+    <string id="CLNJDY14" text="司马"/>
+    <string id="CLNJDY15" text="嬴"/>
+
+    <!-- 埃布拉蒙 -->
+    <string id="CLNRBL01" text="瓦西姆·优努斯"/>
+    <string id="CLNRBL02" text="阿奈斯·萨米尔"/>
+    <string id="CLNRBL03" text="法迪·达乌德"/>
+    <string id="CLNRBL04" text="亚萨尔·齐雅德"/>
+    <string id="CLNRBL05" text="拉沙德·欧格白"/>
+    <string id="CLNRBL06" text="沙斐格·塔勒哈"/>
+    <string id="CLNRBL07" text="马希尔·鲁格曼"/>
+    <string id="CLNRBL08" text="菲拉斯·奥斯"/>
+    <string id="CLNRBL09" text="伊哈桑·哈米德"/>
+ 
+    <!-- 普若尤恩 -->
+    <string id="CLNPRU01" text="奥斯汀"/>
+    <string id="CLNPRU02" text="伊尔普德"/>
+    <string id="CLNPRU03" text="海德"/>
+    <string id="CLNPRU04" text="伯纳德"/>
+    <string id="CLNPRU05" text="林德戈洛"/>
+    <string id="CLNPRU06" text="罗斯"/>
+    <string id="CLNPRU07" text="斯伯格"/>
+    <string id="CLNPRU08" text="洛林"/>
+    <string id="CLNPRU09" text="彼得"/>
+    <string id="CLNPRU10" text="罗宾逊"/>
+    <string id="CLNPRU11" text="埃尔米斯"/>
+
+    <!-- 乌拉索维 -->
+    <string id="CLNWLT01" text="维列斯卡亚"/>
+    <string id="CLNWLT02" text="切尔诺伯格"/>
+    <string id="CLNWLT03" text="安德烈耶夫斯基"/>
+    <string id="CLNWLT04" text="库兹涅佐娃"/>
+    <string id="CLNWLT05" text="珀列维特"/>
+    <string id="CLNWLT06" text="尤里耶芙娜"/>
+    <string id="CLNWLT07" text="伊万诺维奇"/>
+    <string id="CLNWLT08" text="瓦列里安诺维奇"/>
+    <string id="CLNWLT09" text="特里格拉夫"/>
+
+    <!-- 蒙戈黎安 -->
+    <string id="CLNMGR01" text="察哈尔"/>
+    <string id="CLNMGR02" text="扎兰努德"/>
+    <string id="CLNMGR03" text="孛尔只斤"/>
+    <string id="CLNMGR04" text="娜热乌莹"/>
+    <string id="CLNMGR05" text="阿勒坦"/>
+    <string id="CLNMGR06" text="希日努德"/>
+    <string id="CLNMGR07" text="察罕不花"/>
+    <string id="CLNMGR08" text="那苏图"/>
+    <string id="CLNMGR09" text="别速惕"/>
+
+    <!-- 纳堪维亚 -->
+    <string id="CLNNKN01" text="米克霍尔"/>
+    <string id="CLNNKN02" text="安德森"/>
+    <string id="CLNNKN03" text="尼尔森"/>
+    <string id="CLNNKN04" text="雷尔维斯"/>
+    <string id="CLNNKN05" text="林奈乌斯"/>
+    <string id="CLNNKN06" text="奥林斯"/>
+    <string id="CLNNKN07" text="拉尔森"/>
+    <string id="CLNNKN08" text="梅德温"/>
+    <string id="CLNNKN09" text="斯温德尔"/>
+
+    <!-- 小家族 -->
+    <string id="CLNMNR01" text="天山侠义军"/>
+    <string id="CLNMNR02" text="飞虎反叛军"/>
+    <string id="CLNMNR03" text="紫林山庄"/>
+    <string id="CLNMNR04" text="自由兄弟会"/>
+    <string id="CLNMNR05" text="秘法追猎者"/>
+    <string id="CLNMNR06" text="风雷圣殿团"/>
+    <string id="CLNMNR07" text="飞霜复兴会"/>
+    <string id="CLNMNR08" text="灵狐航海团"/>
+    <string id="CLNMNR09" text="维亚圣女会"/>
+    <string id="CLNMNR10" text="温尼伦部落"/>
+    <string id="CLNMNR11" text="荒原侵袭团"/>
+    <string id="CLNMNR12" text="白虹骑士团"/>
+    <string id="CLNMNR13" text="暗鸦游荡者"/>
+    <string id="CLNMNR14" text="绿洲反抗团"/>
+    <string id="CLNMNR15" text="狂沙佣兵团"/>
+    <string id="CLNMNR16" text="星陨兵团"/>
+    <string id="CLNMNR17" text="血龙复兴军"/>
+    <string id="CLNMNR18" text="玄冥守卫团"/>
+    <string id="CLNMNR19" text="冰轩刺客会"/>
+    <string id="CLNMNR20" text="清羽影子军"/>
+    <string id="CLNMNR21" text="雪凤浪客会"/>
+    <string id="CLNMNR22" text="异魔教会"/>
+    <string id="CLNMNR23" text="龙吟审判者"/>
+    <string id="CLNMNR24" text="洛雨骑士团"/>
+
+    <string id="NEWMNR01" text="奴隶团"/>
+    <string id="NEWMNR02" text="维亚圣女会"/>
+    <string id="NEWMNR03" text="黑浪骑士团"/>
+    <string id="NEWMNR04" text="噬魔侵袭军"/>
+    <string id="NEWMNR05" text="血莲复仇团"/>
+    <string id="NEWMNR06" text="白霜圣殿军"/>
+    <string id="NEWMNR07" text="邪炎侵略者"/>
+    <string id="NEWMNR08" text="冥魂审判会"/>
+
+    <!-- 小家族短名 -->
+    <string id="CLNMNR0A" text="莫宗"/>
+    <string id="CLNMNR0B" text="太成反叛军"/>
+
+    <!-- 小家族介绍 -->
+    <string id="ClanIntroduction01" text="天山侠义军，在炎朝南部的天山山脉附近生活。他们由一群拥有侠义精神，反抗炎朝的统治的人建立起来。他们声称自己是人民的守护者，会替人们守护心中的正义。炎朝因为常年征战，外部入侵的压力，使得这一群人在南部的炎朝相当活跃。并且逐步在南部拥有越来越高的名声。"/>
+    <string id="ClanIntroduction02" text="飞虎反叛军，不受炎朝的统治。他们声称他们才是炎朝的统治者，据说他们的首领的确曾统治炎朝。但时间已经过于久远，已经无人敢质疑现任统治者的法理统治权。但飞虎反叛军从未放弃，在炎朝内部，也有部分势力一直资助着飞虎反叛军，期待他们推翻炎朝的统治。来使他们获得更大的利益。"/>
+    <string id="ClanIntroduction03" text="在炎朝的北部边境，树木茂密的森林中，有一群人躲在其中。他们不愿加入炎朝，四处征战。但也并未敢反对炎朝。在这种平衡下，双方因为没有明显的利益冲突，而没有引发战争。但是随着近些年紫林山庄的首领的更替，他们也开始逐渐对大陆的局势和土地产生了兴趣。他们也在寻求更多的机会，来参与到大陆的争斗当中。"/>
+    <string id="ClanIntroduction04" text="自由兄弟会，长期以来反对联邦皇室的统治。他们信奉各大王国因拥有各自独立的政策和王室，他们长期和普若尤恩联邦开战，希望以此来获得独立的地位。虽然他们势力相对羸弱，但是各大王国也并没有想要歼灭他们的意思，反而希望通过兄弟会来削弱联邦皇室的权力。"/>
+    <string id="ClanIntroduction05" text="秘法追猎者是一群反对联邦教会的人们组建的反宗教势力，他们常年袭击联邦教会的人员。因此联邦教会和他们常年处于战争当中，虽然联邦教会没有非常强大的军事实力，但是他们会借用联邦军队的力量来打击追猎者们。双方常年你来我往，秘法追猎者不仅仅在军事上打击联邦教会，最令联邦教会无法接受的是，追猎者们对于无教会，和教会不至上的宣传。"/>
+    <string id="ClanIntroduction06" text="风雷圣殿团传说是由成立普若尤恩联邦的第一任皇室，组建的个人骑士团。后来骑士团逐渐发展了自己的势力，从单纯的骑士团变成了涉及宗教，经济，政治，军事的庞大组织。他们虽然基本支持普若尤恩联邦的统治，但是谁也不知道他们现在到底效忠于谁。"/>
+    <string id="ClanIntroduction07" text="飞霜复兴会介绍"/>
+    <string id="ClanIntroduction08" text="灵狐航海团介绍"/>
+    <string id="ClanIntroduction09" text="维亚圣女会介绍"/>
+    <string id="ClanIntroduction10" text="温尼伦部落介绍"/>
+    <string id="ClanIntroduction11" text="荒原侵袭团介绍"/>
+    <string id="ClanIntroduction12" text="白虹骑士团介绍"/>
+    <string id="ClanIntroduction13" text="暗鸦游荡者介绍"/>
+    <string id="ClanIntroduction14" text="绿洲反抗团介绍"/>
+    <string id="ClanIntroduction15" text="狂沙佣兵团介绍"/>
+    <string id="ClanIntroduction16" text="星陨兵团介绍"/>
+    <string id="ClanIntroduction17" text="血龙复兴军介绍"/>
+    <string id="ClanIntroduction18" text="玄冥守卫团介绍"/>
+    <string id="ClanIntroduction19" text="冰轩刺客会介绍"/>
+    <string id="ClanIntroduction20" text="清羽影子军介绍"/>
+    <string id="ClanIntroduction21" text="雪凤浪客会介绍"/>
+    <string id="ClanIntroduction22" text="异魔教会介绍"/>
+    <string id="ClanIntroduction23" text="龙吟审判者介绍"/>
+    <string id="ClanIntroduction24" text="洛雨骑士团介绍"/>
+
+    <string id="ClanIntroductionNew03" text="黑浪骑士团是由300年前南部大陆黑色浪花势力的入侵遗留的后代组建的骑士团，他们主要负责守卫黑色浪花后代的藏身处，但与此同时他们也会袭击大陆的各种势力。数百年来的仇恨使得他们和大陆的势力已经积累下了无数的血债！"/>
+    <string id="ClanIntroductionNew04" text="噬魔游荡军是暗夜邪魔在大陆四处侵袭的势力，有传言他们的据点在大陆的地底，因此他们经常突然出现在大陆的某地进行袭击。人们还没有发现他们袭击的规律和目的。人们认为他们袭击的主要原因是因为他们需要食物，各地的人类据点等于他们的粮仓。大陆上任何人类势力一旦发现邪魔，必须合力且不计代价的将他们消灭。"/>
+    <string id="ClanIntroductionNew05" text="他们曾一度从大陆上消声觅迹，家园被毁灭，种族被屠杀，没有人还记得他们的存在。直至一个势力的灭亡，他们的名声才再次在大陆上传播。遥远的年代前，他们也曾统治着大陆的大片疆域，可是伴随着他们的强大的险恶的阴谋。继承人不断的刺杀，统治权的混乱，加上大陆上其余势力的围剿。大陆上一度强盛的帝国顷刻间毁于一旦，他们的再度出现宣告着他们的复仇，他们要毁灭大陆上的所有势力。据说他们是出卖了自己种族的生命，希望与灵魂，才换得了强大的力量。"/>
+    <string id="ClanIntroductionNew06" text="在北方无尽的冰原中的种族，他们有着完全不同于希绝大陆人类的信仰。他们将生活在希绝大陆上的人类势力当作异端，他们不时从冰原中组建圣殿军，来讨伐希绝大陆上的异端。他们身强力壮，无惧寒冷与死亡，一般兵器甚至无法刺穿他们坚硬的皮肤。他们是北方最令人恐惧的存在。"/>
+    <string id="ClanIntroductionNew07" text="在希绝大陆的南方，连绵不绝的山脉中，传说中有地下的岩浆孕育了全新的种族。他们在地下世界繁衍壮大，据说有人无意中闯入地下世界，其如同地上世界一样，有着各类奇异的动物和植物。地下世界的庞大使得全新的种族得到了丰富的资源，并迅速发展出了统一的文明。当他们完成统一，并得知地上有着更为广阔的疆土的时候，他们便开始了蓄谋已久的侵略。"/>
+    <string id="ClanIntroductionNew08" text="在黑暗且无尽的大海的尽头，有着无数条件恶劣的岛屿。在无人知晓的此地，不知何时诞生了奇怪的种族。他们犹如魅影一般，难以具象的形状使人们认为他们并非这个世界的造物。这种奇怪的种族，不知为何，仿佛收到命运的召唤，在繁衍并创建了强大的势力后，开始不惧艰险的来到希绝大陆。他们称自己为审判者，前来审判希绝大陆上的种族。虽然他们前来袭击的势力远不如希绝大陆上的势力强大，但是其鬼魅的战斗方式依旧造成了大陆各种族难以形容的恐惧。"/>
+
+  </strings>
+</base>

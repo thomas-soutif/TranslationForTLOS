@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+  <!-- 其他杂项物品的简体中文文本 -->
+
+ <!-- 马匹开始 -->
+
+  <!-- 炎朝马 -->
+    <string id="HOJDY01" text="炎地马" />
+    <string id="HOJDY02" text="炎地战马" />
+    <string id="HOJDY03" text="炎地将军马" />
+    <string id="HOJDY04" text="逸尘" />
+  <!-- 普若尤恩马 -->
+    <string id="HOPRU01" text="普若尤恩马" />
+    <string id="HOPRU02" text="普若尤恩猎马" />
+    <string id="HOPRU03" text="普若尤恩军马" />
+    <string id="HOPRU04" text="普若尤恩骑士马" />
+    <string id="HOPRU05" text="普若尤恩贵族马" />
+    <string id="HOPRU06" text="普若尤恩皇室马" />
+  <!-- 埃布拉蒙马 -->
+    <string id="HORBL01" text="埃布拉蒙马" />
+    <string id="HORBL02" text="埃布拉蒙沙漠骏马" />
+    <string id="HORBL03" text="埃布拉蒙军马" />
+    <string id="HORBL04" text="埃布拉蒙战马" />
+    <string id="HORBL05" text="埃布拉蒙埃米尔马" />
+    <string id="HORBL06" text="埃布拉蒙苏丹马" />
+  <!-- 蒙戈黎安马 -->
+    <string id="HOMGR01" text="蒙戈黎安旅马" />
+    <string id="HOMGR02" text="蒙戈黎安矮马" />
+    <string id="HOMGR03" text="蒙戈黎安健马" />
+    <string id="HOMGR04" text="蒙戈黎安驯马" />
+    <string id="HOMGR05" text="蒙戈黎安骏马" />
+    <string id="HOMGR06" text="蒙戈黎安草原马" />
+    <string id="HOMGR07" text="蒙戈黎安迅捷马" />
+    <string id="HOMGR08" text="蒙戈黎安战马" />
+    <string id="HOMGR09" text="蒙戈黎安猎马" />
+    <string id="HOMGR10" text="蒙戈黎安冲锋马" />
+    <string id="HOMGR11" text="蒙戈黎安疾风" />
+    <string id="HOMGR12" text="蒙戈黎安狂风" />
+    <string id="HOMGR13" text="黎安奔马" />
+    <string id="HOMGR14" text="可汗银马" />
+  <!-- 乌拉索维马 -->
+    <string id="HOWLT01" text="乌拉索维雪地马" />
+    <string id="HOWLT02" text="乌拉索维重马" />
+    <string id="HOWLT03" text="乌拉索维巨型马" />
+    <string id="HOWLT04" text="密林马" />
+  <!-- 纳堪维亚马 -->
+    <string id="HONKN01" text="北原马" />
+    <string id="HONKN02" text="峰雪马" />
+  <!-- 落月马 -->
+    <string id="HOLMC01" text="落月矮马" />
+    <string id="HOLMC02" text="落月马" />
+  <!-- 无文化马 -->
+    <string id="HONET01" text="旅行马" />
+
+ <!-- 马匹结束 -->
+
+ <!-- 盾牌开始 -->
+
+  <!-- 炎朝盾 -->
+    <string id="SDJDY01" text="炎朝木牌" />
+    <string id="SDJDY02" text="炎朝步卒盾" />
+    <string id="SDJDY03" text="炎朝重盾" />
+    <string id="SDJDY04" text="五边三辰长牌" />
+    <string id="SDJDY05" text="炎朝重装大盾" />
+  <!-- 普若尤恩盾 -->
+    <string id="SDPRU01" text="小扇形盾" />
+    <string id="SDPRU02" text="平面扇形盾" />
+    <string id="SDPRU03" text="小型平面扇形盾" />
+    <string id="SDPRU04" text="重型扇形盾" />
+    <string id="SDPRU05" text="加固扇形盾" />
+    <string id="SDPRU06" text="宽扇形盾" />
+    <string id="SDPRU07" text="普若尤恩骑士盾" />
+  <!-- 埃布拉蒙盾 -->
+    <string id="SDRBL01" text="破旧杏形盾" />
+    <string id="SDRBL02" text="木制杏形盾" />
+    <string id="SDRBL03" text="战痕椭圆盾" />
+    <string id="SDRBL04" text="佣兵杏形盾" />
+    <string id="SDRBL05" text="佣兵椭圆盾" />
+    <string id="SDRBL06" text="骑手杏形盾" />
+    <string id="SDRBL07" text="重型椭圆盾" />
+    <string id="SDRBL08" text="镶边椭圆盾" />
+    <string id="SDRBL09" text="埃布拉蒙大师盾" />
+  <!-- 蒙戈黎安盾 -->
+    <string id="SDMGR01" text="蒙戈黎安方盾" />
+    <string id="SDMGR02" text="蒙戈黎安小圆盾" />
+    <string id="SDMGR03" text="蒙戈黎安枪骑兵盾" />
+    <string id="SDMGR04" text="蒙戈黎安精英盾" />
+    <string id="SDMGR05" text="蒙戈黎安铁骑盾" />
+  <!-- 纳堪维亚盾 -->
+    <string id="SDNKN01" text="破旧圆盾" />
+    <string id="SDNKN02" text="纳堪维亚木圆盾" />
+    <string id="SDNKN03" text="纳堪维亚镶边木圆盾" />
+    <string id="SDNKN04" text="纳堪维亚大木盾" />
+    <string id="SDNKN05" text="纳堪维亚铁边盾" />
+    <string id="SDNKN06" text="纳堪维亚皮边盾" />
+    <string id="SDNKN07" text="皇家侍卫盾" />
+  <!-- 乌拉索维盾 -->
+    <string id="SDWLT01" text="破旧筝形盾" />
+    <string id="SDWLT02" text="乌拉索维筝形盾" />
+    <string id="SDWLT03" text="乌拉索维强化筝形盾" />
+  <!-- 落月盾牌 -->
+    <string id="SDLMC01" text="落月木盾" />
+    <string id="SDLMC02" text="落月足轻盾" />
+  <!-- 雅瑞安盾牌 -->
+    <string id="SDYRN01" text="雅瑞安部落简易盾" />
+    <string id="SDYRN02" text="雅瑞安部落盾" />
+    <string id="SDYRN03" text="雅瑞安部落大盾" />
+    <string id="SDYRN04" text="雅瑞安丛林战士盾" />
+  <!-- 强盗盾牌 -->
+    <string id="SDBDT01" text="背弃者小型筝形盾" />
+    <string id="SDBDT02" text="背弃者筝形盾" />
+    <string id="SDBDT03" text="背弃者长筝形盾" />
+  <!-- 其他盾牌 -->
+    <string id="SDSTY01" text="骑士团盾" />
+  <!-- 艾灵族盾牌 -->
+    <string id="SDELN01" text="艾灵盾" />
+ <!-- 盾牌结束 -->
+
+ <!-- 马甲开始 -->
+
+  <!-- 炎朝马甲 -->
+    <string id="HHJDY01" text="炎朝马具" />
+    <string id="HHJDY02" text="炎朝札甲马具" />
+    <string id="HHJDY03" text="炎朝将军马铠" />
+  <!-- 普若尤恩马甲 -->
+    <string id="HHPRU01" text="普若尤恩半身链甲马铠" />
+    <string id="HHPRU02" text="普若尤恩锁甲马铠" />
+    <string id="HHPRU03" text="普若尤恩链甲马铠" />
+    <string id="HHPRU04" text="普若尤恩骑士马铠" />
+  <!-- 埃布拉蒙马甲 -->
+    <string id="HHRBL01" text="埃布拉蒙轻型马铠" />
+    <string id="HHRBL02" text="埃布拉蒙半身马铠" />
+    <string id="HHRBL03" text="埃布拉蒙半身札甲马铠" />
+    <string id="HHRBL04" text="埃布拉蒙札甲马铠" />
+  <!-- 蒙戈黎安马甲 -->
+    <string id="HHMGR01" text="蒙戈黎安轻型挽具" />
+    <string id="HHMGR02" text="蒙戈黎安挽具" />
+    <string id="HHMGR03" text="蒙戈黎安骑手马具" />
+    <string id="HHMGR04" text="蒙戈黎安枪骑兵马铠" />
+    <string id="HHMGR05" text="蒙戈黎安半身马铠" />
+    <string id="HHMGR06" text="蒙戈黎安半身札甲马铠" />
+    <string id="HHMGR07" text="蒙戈黎安射手马铠" />
+    <string id="HHMGR08" text="蒙戈黎安札甲马铠" />
+    <string id="HHMGR09" text="可汗札甲马铠" />
+    <string id="HHMGR10" text="蒙戈黎安全身马铠" />
+  <!-- 乌拉索维马甲 -->
+    <string id="HHWLT01" text="乌拉索维环甲马铠" />
+    <string id="HHWLT02" text="乌拉索维轻型马铠" />
+  <!-- 落月马甲 -->
+    <string id="HHLMC01" text="落月马具" />
+    <string id="HHLMC02" text="落月武士马具" />
+
+ <!-- 马甲结束 -->
+
+ <!-- 弹药开始 -->
+    <string id="ABJDY01" text="炎朝弩矢" />
+    <string id="ABJDY02" text="炎朝连弩弩矢" />
+    <string id="ABJDY03" text="炎朝禁军弩矢" />
+    <string id="ABPRU01" text="普若尤恩箭" />
+    <string id="ABWLT01" text="乌拉索维军团箭" />
+    <string id="ABMGR01" text="蒙戈黎安箭" />
+    <string id="ABNET01" text="劣质箭" />
+    <string id="ABLMC01" text="落月箭" />
+    <string id="ABYRN01" text="部落箭" />
+    <string id="ABYRN02" text="部落重箭" />
+    <string id="ABYRN03" text="部落简易箭" />
+    <string id="ABBDT01" text="野林箭" />
+    <string id="ABELN01" text="艾灵箭" />
+ <!-- 弹药结束 -->
+
+ <!-- 其他物品开始 -->
+    <string id="OI001" text="酒杯" />
+    <string id="OI002" text="维利克的信件" />
+    <string id="OI003" text="玉环" />
+    <string id="OI004" text="宝箱" />
+ <!-- 其他物品结束 -->
+
+  </strings>
+</base>

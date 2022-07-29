@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+  <!-- 腿甲的简体中文文本 -->
+  <!-- 炎朝 -->
+    <string id="LAJDY01" text="农夫鞋" />
+    <string id="LAJDY02" text="粗布鞋子" />
+    <string id="LAJDY03" text="白色绑腿" />
+    <string id="LAJDY04" text="步行尖头靴" />
+    <string id="LAJDY05" text="步战尖头靴" />
+    <string id="LAJDY06" text="行军护胫" />
+    <string id="LAJDY07" text="骑行护胫" />
+    <string id="LAJDY08" text="金漆镶钉护胫" />
+    <string id="LAJDY09" text="金漆天王护胫" />
+    <string id="LAJDY10" text="玄金天王马靴" />
+    <string id="LAJDY11" text="黑色轻型马靴" />
+    <string id="LAJDY12" text="粗制炎朝镶钉护胫" />
+    <string id="LAJDY13" text="粗制炎朝金漆护胫" />
+    <string id="LAJDY14" text="粗制炎朝金马靴" />
+
+  <!-- 普若尤恩 -->
+    <string id="LAPRU01" text="棕色皮靴" />
+    <string id="LAPRU02" text="链甲面战靴" />
+    <string id="LAPRU03" text="双层链甲战靴" />
+    <string id="LAPRU04" text="填充弓兵皮靴" />
+    <string id="LAPRU05" text="棕色皮革护腿" />
+    <string id="LAPRU06" text="札板甲靴" />
+    <string id="LAPRU07" text="精锐札甲靴" />
+  <!-- 埃布拉蒙 -->
+    <string id="LARBL01" text="佣兵皮靴" />
+    <string id="LARBL02" text="远足皮靴" />
+    <string id="LARBL03" text="佣兵链甲护胫" />
+  <!-- 蒙戈黎安 -->
+    <string id="LAMGR01" text="蒙戈黎安皮靴" />
+    <string id="LAMGR02" text="蒙戈黎安绒面靴" />
+  <!-- 落月 -->
+    <string id="LALMC01" text="落月民夫草鞋" />
+    <string id="LALMC02" text="落月足轻鞋" />
+    <string id="LALMC03" text="落月毛沓" />
+    <string id="LALMC04" text="落月具足腿甲" />
+  <!-- 雅瑞安 -->
+    <string id="LAYRN01" text="雅瑞安部落鞋" />
+    <string id="LAYRN02" text="雅瑞安部落战士鞋" />
+    <string id="LAYRN03" text="雅瑞安神鹫战靴" />
+    <string id="LAYRN04" text="雅瑞安鬣蜥战靴" />
+  <!-- 其他 -->
+    <string id="LASTY01" text="暗黑护腿" />
+    <string id="LASTY02" text="希绝骑士战靴" />
+  </strings>
+</base>

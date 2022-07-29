@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+  <!-- 肩甲的简体中文文本 -->
+  <!-- 炎朝 -->
+    <string id="CAJDY01" text="鳞状札甲护肩" />
+    <string id="CAJDY02" text="简易札甲护肩" />
+    <string id="CAJDY03" text="鳞状札片护肩" />
+    <string id="CAJDY04" text="鳞状骑兵肩札" />
+    <string id="CAJDY05" text="札甲环臂铠" />
+    <string id="CAJDY06" text="札甲板条臂铠" />
+    <string id="CAJDY07" text="龟纹札甲臂铠" />
+    <string id="CAJDY08" text="金漆兽吞护肩" />
+    <string id="CAJDY09" text="金漆兽吞罩袍" />
+    <string id="CAJDY10" text="金漆蟒状山纹护肩" />
+    <string id="CAJDY11" text="粗制兽吞护肩" />
+    <string id="CAJDY12" text="粗制兽吞罩袍" />
+    <string id="CAJDY13" text="粗制蟒状山纹护肩" />
+
+  <!-- 普若尤恩 -->
+    <string id="CAPRU01" text="普若尤恩轻型板肩" />
+
+  <!-- 埃布拉蒙 -->
+    <string id="CARBL01" text="皮制围脖" />
+    <string id="CARBL02" text="佣兵黄铜肩甲" />
+  <!-- 蒙戈黎安 -->
+    <string id="CAMGR01" text="蒙戈黎安札甲护肩" />
+  <!-- 纳堪维亚 -->
+    <string id="CANKN01" text="纳堪维亚狼皮肩甲" />
+  <!-- 落月 -->
+    <string id="CALMC01" text="落月足轻披肩" />
+    <string id="CALMC02" text="落月挂肩" />
+    <string id="CALMC03" text="落月武士肩甲" />
+    <string id="CALMC04" text="落月具足肩甲" />
+  <!-- 雅瑞安 -->
+    <string id="CAYRN01" text="雅瑞安部落羽饰披肩" />
+    <string id="CAYRN02" text="雅瑞安部落战士披肩" />
+    <string id="CAYRN03" text="雅瑞安部落肩甲" />
+    <string id="CAYRN04" text="雅瑞安神鹫护肩" />
+    <string id="CAYRN05" text="雅瑞安鬣蜥护肩" />
+  <!-- 其他 -->
+    <string id="CASTY01" text="暗黑护肩" />
+    <string id="CASTY02" text="希绝骑士板肩" />
+    <string id="CASTY03" text="希绝骑士统帅披风" />
+  </strings>
+</base>

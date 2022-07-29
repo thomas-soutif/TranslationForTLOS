@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+  <!-- 头盔的简体中文文本 -->
+  <!-- 炎朝 -->
+    <string id="HAJDY01" text="发髻" />
+    <string id="HAJDY02" text="炎朝头巾" />
+    <string id="HAJDY03" text="轻皮盔" />
+    <string id="HAJDY04" text="环片护盔" />
+    <string id="HAJDY05" text="环片札盔" />
+    <string id="HAJDY06" text="札甲项顿兜盔" />
+    <string id="HAJDY07" text="札片项顿兜盔" />
+    <string id="HAJDY08" text="札甲覆面兜盔" />
+    <string id="HAJDY09" text="精锐重盔" />
+    <string id="HAJDY10" text="金面凤翅兜盔" />
+    <string id="HAJDY11" text="重型龙首札甲兜鍪" />
+    <string id="HAJDY12" text="玄金四瓣覆面盔" />
+    <string id="HAJDY13" text="轻型弓手兜鍪" />
+    <string id="HAJDY14" text="粗制凤翅兜盔" />
+    <string id="HAJDY15" text="粗制龙首札甲兜鍪" />
+    <string id="HAJDY16" text="粗制四瓣覆面盔" />
+  <!-- 普若尤恩 -->
+    <string id="HAPRU01" text="衬布覆面剑士盔" />
+    <string id="HAPRU02" text="开领覆面剑士盔" />
+    <string id="HAPRU03" text="板甲骑兵尖盔" />
+    <string id="HAPRU04" text="弧状覆面板甲盔" />
+    <string id="HAPRU05" text="翻边弓兵铁盔" />
+  <!-- 埃布拉蒙 -->
+    <string id="HARBL01" text="园巾骑手战盔" />
+    <string id="HARBL02" text="缠巾马穆鲁克战盔" />
+    <string id="HARBL03" text="埃布拉蒙马穆鲁克头盔" />
+  <!-- 纳堪维亚 -->
+    <string id="HANKN01" text="裹布护鼻盔" />
+    <string id="HANKN02" text="覆面链甲眼眶衬盔" />
+    <string id="HANKN03" text="札甲眼眶衬盔" />
+    <string id="HANKN04" text="两颊眼眶盔" />
+  <!-- 乌拉索维 -->
+    <string id="HAWLT01" text="兽皮猎人帽" />
+    <string id="HAWLT02" text="轻型兽皮猎人帽" />
+    <string id="HAWLT03" text="林地游击护帽" />
+  <!-- 落月 -->
+    <string id="HALMC01" text="落月缠头" />
+    <string id="HALMC02" text="落月简陋足轻盔" />
+    <string id="HALMC03" text="落月阵笠" />
+    <string id="HALMC04" text="落月足轻盔" />
+    <string id="HALMC05" text="落月薙刀兵盔" />
+    <string id="HALMC06" text="落月筋兜" />
+    <string id="HALMC07" text="落月弓兵盔" />
+    <string id="HALMC08" text="落月武士兜" />
+    <string id="HALMC09" text="落月具足兜" />
+  <!-- 雅瑞安 -->
+    <string id="HAYRN01" text="雅瑞安部落头饰" />
+    <string id="HAYRN02" text="雅瑞安部落战士头饰" />
+    <string id="HAYRN03" text="雅瑞安部落战士头甲" />
+    <string id="HAYRN04" text="雅瑞安部落青铜盔" />
+    <string id="HAYRN05" text="雅瑞安部落战盔" />
+    <string id="HAYRN06" text="雅瑞安神鹫盔" />
+    <string id="HAYRN07" text="雅瑞安鬣蜥盔" />
+  <!-- 其他 -->
+    <string id="HASTY01" text="暗黑头盔" />
+    <string id="HASTY02" text="怪物头颅" />
+    <string id="HASTY03" text="希绝骑士统领盔" />
+    <string id="HASTY04" text="厚实头皮" />
+    <string id="HASTY05" text="希绝骑士盔" />
+  </strings>
+</base>

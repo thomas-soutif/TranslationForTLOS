@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+  <!-- 兵种名称的简体中文文本 -->
+  <!-- 炎朝 -->
+    <string id="NTJDY01" text="炎朝农夫" />
+    <string id="NTJDY02" text="大炎新兵" />
+    <string id="NTJDY03" text="大炎轻步卒" />
+    <string id="NTJDY04" text="大炎持矛步卒" />
+    <string id="NTJDY05" text="大炎轻弩士" />
+    <string id="NTJDY06" text="大炎盾步卒" />
+    <string id="NTJDY07" text="大炎持戈步卒" />
+    <string id="NTJDY08" text="大炎中坚弩士" />
+    <string id="NTJDY09" text="大炎中坚步卒" />
+    <string id="NTJDY10" text="大炎持枪步卒" />
+    <string id="NTJDY11" text="大炎骑兵" />
+    <string id="NTJDY12" text="大炎虎骑" />
+    <string id="NTJDY13" text="大炎重甲步卒" />
+    <string id="NTJDY14" text="大炎长刀近卫" />
+    <string id="NTJDY15" text="大炎重甲弩士" />
+    <string id="NTJDY16" text="大炎三尖刀侍卫" />
+    <string id="OTJDY17" text="大炎新勇" />
+    <string id="OTJDY18" text="大炎持戈护卫" />
+    <string id="OTJDY19" text="大炎戍边连弩士" />
+    <string id="OTJDY20" text="大炎戟士" />
+    <string id="OTJDY21" text="大炎都护府连弩卫" />
+    <string id="OTJDY22" text="大炎戟卫" />
+    <string id="MLTJDY23" text="大炎守城士卒" />
+    <string id="MLTJDY24" text="大炎守城弩士" />
+    <string id="MLTJDY25" text="大炎着甲守城士卒" />
+    <string id="MLTJDY26" text="大炎老练守城弩士" />
+    <string id="OTJDY27" text="大炎戍边弩士" />
+    
+  <!-- 普若尤恩 -->
+    <string id="NTPRU01" text="普若尤恩村民" />
+    <string id="NTPRU02" text="普若尤恩征召兵" />
+    <string id="NTPRU03" text="普若尤恩轻步兵" />
+    <string id="NTPRU04" text="普若尤恩征召弓手" />
+    <string id="NTPRU05" text="普若尤恩步兵" />
+    <string id="NTPRU06" text="普若尤恩弓箭手" />
+    <string id="NTPRU07" text="普若尤恩骑兵" />
+    <string id="NTPRU08" text="普若尤恩长枪兵" />
+    <string id="NTPRU09" text="普若尤恩重步兵" />
+    <string id="NTPRU10" text="普若尤恩长弓手" />
+    <string id="NTPRU11" text="普若尤恩重骑兵" />
+    <string id="NTPRU12" text="普若尤恩精英长枪兵" />
+    <string id="NTPRU13" text="普若尤恩精英长弓手" />
+    <string id="NTPRU14" text="普若尤恩破阵骑兵" />
+    <string id="OTPRU15" text="普若尤恩侍从" />
+    <string id="OTPRU16" text="普若尤恩骑士" />
+    <string id="OTPRU17" text="普若尤恩荣誉骑士" />
+    <string id="MLTPRU18" text="普若尤恩民兵剑士" />
+    <string id="MLTPRU19" text="普若尤恩民兵弓手" />
+    <string id="MLTPRU20" text="普若尤恩资深民兵剑士" />
+    <string id="MLTPRU21" text="普若尤恩资深民兵弓手" />
+      
+  <!-- 埃布拉蒙 -->
+    <string id="NTRBL01" text="埃布拉蒙平民" />
+    <string id="NTRBL02" text="埃布拉蒙新兵" />
+    <string id="NTRBL03" text="埃布拉蒙见习佣兵" />
+    <string id="NTRBL04" text="埃布拉蒙熟练佣兵" />
+    <string id="NTRBL05" text="埃布拉蒙佣兵弓手" />
+    <string id="NTRBL06" text="埃布拉蒙佣兵骑手" />
+    <string id="NTRBL07" text="埃布拉蒙资深佣兵" />
+    <string id="NTRBL08" text="埃布拉蒙熟练佣兵弓手" />
+    <string id="NTRBL09" text="埃布拉蒙资深佣兵骑手" />
+    <string id="NTRBL10" text="埃布拉蒙佣兵骑射手" />
+    <string id="NTRBL11" text="埃布拉蒙重装佣兵" />
+    <string id="NTRBL12" text="埃布拉蒙大师佣兵" />
+    <string id="OTRBL13" text="埃布拉蒙马穆鲁克新兵" />
+    <string id="OTRBL14" text="埃布拉蒙马穆鲁克步兵" />
+    <string id="OTRBL15" text="埃布拉蒙马穆鲁克骑手" />
+    <string id="OTRBL16" text="埃布拉蒙马穆鲁克卫士" />
+    <string id="OTRBL17" text="埃布拉蒙马穆鲁克重骑兵" />
+    <string id="OTRBL18" text="埃布拉蒙马穆鲁克精英卫士" />
+    <string id="OTRBL19" text="埃布拉蒙马穆鲁克大师骑兵" />
+    <string id="MLTRBL20" text="埃布拉蒙护城步兵" />
+    <string id="MLTRBL21" text="埃布拉蒙护城射手" />
+    <string id="MLTRBL22" text="埃布拉蒙护城老兵" />
+    <string id="MLTRBL23" text="埃布拉蒙护城弓兵" />
+        
+  <!-- 蒙戈黎安 -->
+    <string id="NTMGR01" text="蒙戈黎安牧民" />
+    <string id="NTMGR02" text="蒙戈黎安新兵" />
+    <string id="NTMGR03" text="蒙戈黎安骑手" />
+    <string id="NTMGR04" text="蒙戈黎安游击射手" />
+    <string id="NTMGR05" text="蒙戈黎安矛兵" />
+    <string id="NTMGR06" text="蒙戈黎安骑兵" />
+    <string id="NTMGR07" text="蒙戈黎安骑射手" />
+    <string id="NTMGR08" text="蒙戈黎安枪骑兵" />
+    <string id="NTMGR09" text="蒙戈黎安资深骑射手" />
+    <string id="NTMGR10" text="蒙戈黎安射雕手" />
+    <string id="NTMGR11" text="蒙戈黎安拐子马" />
+    <string id="NTMGR12" text="蒙戈黎安轻步兵" />
+    <string id="NTMGR13" text="蒙戈黎安长矛兵" />
+    <string id="NTMGR14" text="蒙戈黎安猎人" />
+    <string id="NTMGR15" text="蒙戈黎安步弓手" />
+    <string id="OTMGR16" text="蒙戈黎安部落青年" />
+    <string id="OTMGR17" text="蒙戈黎安部落骑射手" />
+    <string id="OTMGR18" text="蒙戈黎安部落精英骑射手" />
+    <string id="OTMGR19" text="蒙戈黎安部落飞骑" />
+    <string id="OTMGR20" text="蒙戈黎安部落重骑" />
+    <string id="OTMGR21" text="蒙戈黎安狂风骑手" />
+    <string id="OTMGR22" text="蒙戈黎安铁浮屠" />
+    <string id="MLTMGR23" text="蒙戈黎安持矛民兵" />
+    <string id="MLTMGR24" text="蒙戈黎安持弓民兵" />
+    <string id="MLTMGR25" text="蒙戈黎安资深持矛民兵" />
+    <string id="MLTMGR26" text="蒙戈黎安资深持弓民兵" />
+        
+    <!-- 纳堪维亚 -->
+    <string id="NTNKN01" text="纳堪维亚乡民" />
+    <string id="NTNKN02" text="纳堪维亚盗贼" />
+    <string id="NTNKN03" text="纳堪维亚猎人" />
+    <string id="NTNKN04" text="纳堪维亚轻步兵" />
+    <string id="NTNKN05" text="纳堪维亚弓箭手" />
+    <string id="NTNKN06" text="纳堪维亚散兵" />
+    <string id="NTNKN07" text="纳堪维亚投矛手" />
+    <string id="NTNKN08" text="纳堪维亚勇士" />
+    <string id="NTNKN09" text="纳堪维亚飞矛手" />
+    <string id="NTNKN10" text="纳堪维亚盾卫" />
+    <string id="NTNKN11" text="纳堪维亚资深步兵" />
+    <string id="NTNKN12" text="纳堪维亚入侵者" />
+    <string id="OTNKN13" text="纳堪维亚卫队少年" />
+    <string id="OTNKN14" text="纳堪维亚卫队老兵" />
+    <string id="OTNKN15" text="纳堪维亚皇家侍卫" />
+    <string id="MLTNKN16" text="纳堪维亚持斧民兵" />
+    <string id="MLTNKN17" text="纳堪维亚民兵弓手" />
+    <string id="MLTNKN18" text="纳堪维亚资深持斧民兵" />
+    <string id="MLTNKN19" text="纳堪维亚资深民兵弓手" />
+        
+    <!-- 乌拉索维 -->
+    <string id="NTWLT01" text="乌拉索维村夫" />
+    <string id="NTWLT02" text="乌拉索维猎人" />
+    <string id="NTWLT03" text="乌拉索维工匠" />
+    <string id="NTWLT04" text="乌拉索维游击射手" />
+    <string id="NTWLT05" text="乌拉索维士兵" />
+    <string id="NTWLT06" text="乌拉索维弓箭手" />
+    <string id="NTWLT07" text="乌拉索维骑乘斧兵" />
+    <string id="NTWLT08" text="乌拉索维斧兵" />
+    <string id="NTWLT09" text="乌拉索维冲击斧兵" />
+    <string id="NTWLT10" text="乌拉索维卫士" />
+    <string id="NTWLT11" text="乌拉索维神箭手" />
+    <string id="NTWLT12" text="乌拉索维游侠" />
+    <string id="OTWLT13" text="乌拉索维壮士" />
+    <string id="OTWLT14" text="乌拉索维弓箭战士" />
+    <string id="OTWLT15" text="乌拉索维巨斧战士" />
+    <string id="OTWLT16" text="乌拉索维弓箭勇者" />
+    <string id="OTWLT17" text="乌拉索维巨斧勇者" />
+    <string id="OTWLT18" text="乌拉索维弓箭大师" />
+    <string id="OTWLT19" text="乌拉索维巨斧豪杰" />
+    <string id="MLTWLT20" text="乌拉索维民兵" />
+    <string id="MLTWLT21" text="乌拉索维民兵猎人" />
+    <string id="MLTWLT22" text="乌拉索维资深民兵" />
+    <string id="MLTWLT23" text="乌拉索维资深民兵猎人" />
+
+    <!-- 落月 -->
+    <string id="NTLMC01" text="落月村民" />
+    <string id="NTLMC02" text="落月足轻" />
+    <string id="NTLMC03" text="落月熟练足轻" />
+    <string id="NTLMC04" text="落月枪足轻" />
+    <string id="NTLMC05" text="落月老练足轻" />
+    <string id="NTLMC06" text="落月弓足轻" />
+    <string id="NTLMC07" text="落月刀足轻" />
+    <string id="NTLMC08" text="落月配盾足轻" />
+    <string id="NTLMC09" text="落月薙刀兵" />
+    <string id="NTLMC10" text="落月枪兵" />
+    <string id="NTLMC11" text="落月弓兵" />
+    <string id="NTLMC12" text="落月步兵" />
+    <string id="OTLMC13" text="落月郎党" />
+    <string id="OTLMC14" text="落月武士" />
+    <string id="OTLMC15" text="落月太刀武士" />
+    <string id="OTLMC16" text="落月骑武士" />
+    <string id="OTLMC17" text="落月野太刀武士" />
+    <string id="OTLMC18" text="落月太刀骑武士" />
+    <string id="MLTLMC19" text="落月守备步兵" />
+    <string id="MLTLMC20" text="落月守备弓兵" />
+    <string id="MLTLMC21" text="落月高级守备步兵" />
+    <string id="MLTLMC22" text="落月高级守备弓兵" />
+
+    <!-- 雅瑞安 -->
+    <string id="NTYRN01" text="雅瑞安部落民" />
+    <string id="NTYRN02" text="雅瑞安部落新兵" />
+    <string id="NTYRN03" text="雅瑞安部落猎人" />
+    <string id="NTYRN04" text="雅瑞安部落战士" />
+    <string id="NTYRN05" text="雅瑞安棍战士" />
+    <string id="NTYRN06" text="雅瑞安矛战士" />
+    <string id="NTYRN07" text="雅瑞安部落射手" />
+    <string id="NTYRN08" text="雅瑞安坚棍战士" />
+    <string id="NTYRN09" text="雅瑞安利矛战士" />
+    <string id="NTYRN10" text="雅瑞安部落强射手" />
+    <string id="NTYRN11" text="雅瑞安丛林战士" />
+    <string id="OTYRN12" text="雅瑞安受选战士" />
+    <string id="OTYRN13" text="雅瑞安掷石战士" />
+    <string id="OTYRN14" text="雅瑞安巨棒战士" />
+    <string id="OTYRN15" text="雅瑞安神鹫战士" />
+    <string id="OTYRN16" text="雅瑞安鬣蜥战士" />
+    <string id="MLTYRN17" text="雅瑞安守营战士" />
+    <string id="MLTYRN18" text="雅瑞安守营投射战士" />
+    <string id="MLTYRN19" text="雅瑞安强壮守营战士" />
+    <string id="MLTYRN20" text="雅瑞安强壮守营投射战士" />
+
+    <!-- 老强盗 -->
+    <string id="NTBDT01" text="劫匪" />
+    <string id="NTBDT02" text="盗匪" />
+    <string id="NTBDT03" text="宵小" />
+    <string id="NTBDT04" text="流寇" />
+    <string id="NTBDT05" text="流寇头领" />
+    <string id="NTBDT06" text="逃犯" />
+    <string id="NTBDT07" text="强盗" />
+    <string id="NTBDT08" text="强盗头领" />
+    <string id="NTBDT09" text="流民" />
+    <string id="NTBDT10" text="沙匪" />
+    <string id="NTBDT11" text="沙匪头领" />
+    <string id="NTBDT12" text="林寇" />
+    <string id="NTBDT13" text="山贼" />
+    <string id="NTBDT14" text="山贼头领" />
+    <string id="NTBDT15" text="马贼" />
+    <string id="NTBDT16" text="马匪" />
+    <string id="NTBDT17" text="马匪头领" />
+    <string id="NTBDT18" text="水贼" />
+    <string id="NTBDT19" text="海盗" />
+    <string id="NTBDT20" text="海盗头领" />
+    <!-- 新强盗 -->
+    <string id="NTBDT21" text="背弃者" />
+    <string id="NTBDT22" text="背弃士兵" />
+    <string id="NTBDT23" text="背弃战士" />
+    <string id="NTBDT24" text="背弃狂徒" />
+    <string id="NTBDT25" text="背弃军士" />
+    <string id="NTBDT26" text="背弃侍卫" />
+    <string id="NTBDT27" text="异教徒" />
+    <string id="NTBDT28" text="异教侍奉者" />
+    <string id="NTBDT29" text="异教狂热者" />
+    <string id="NTBDT30" text="异教使者" />
+    <string id="NTBDT31" text="异教护卫" />
+    <string id="NTBDT32" text="异教大师" />
+    <string id="NTBDT33" text="掠袭者" />
+    <string id="NTBDT34" text="掠袭强盗" />
+    <string id="NTBDT35" text="掠袭战士" />
+    <string id="NTBDT36" text="掠袭骑手" />
+    <string id="NTBDT37" text="掠袭游骑兵" />
+    <string id="NTBDT38" text="掠袭骑士" />
+    <string id="NTBDT39" text="野林游荡者" />
+    <string id="NTBDT40" text="野林猎手" />
+    <string id="NTBDT41" text="野林猎杀者" />
+    <string id="NTBDT42" text="野林战士" />
+    <string id="NTBDT43" text="野林护卫" />
+    <string id="NTBDT44" text="野林游侠" />
+    <string id="NTBDT45" text="海贼乱军" />
+    <string id="NTBDT46" text="海寇掠夺者" />
+    <string id="NTBDT47" text="海盗战士" />
+    <string id="NTBDT48" text="海盗精英" />
+    <string id="NTBDT49" text="海盗袭击者" />
+    <string id="NTBDT50" text="海盗无畏者" />
+    <string id="NTBDT51" text="荒漠幸存者" />
+    <string id="NTBDT52" text="荒漠搜索者" />
+    <string id="NTBDT53" text="荒漠探险者" />
+    <string id="NTBDT54" text="荒漠冒险家" />
+    <string id="NTBDT55" text="兄弟会精英" />
+    <string id="NTBDT56" text="兄弟会大师" />
+
+    <!-- 雇佣兵 -->
+    <string id="NTMCR01" text="探险哨兵" />
+    <string id="NTMCR02" text="探险弩手" />
+    <string id="NTMCR03" text="探险剑士" />
+    <string id="NTMCR04" text="探险斥候" />
+    <string id="NTMCR05" text="探险步兵" />
+    <string id="NTMCR06" text="探险骑手" />
+    <string id="NTMCR07" text="探险剑客" />
+    <string id="NTMCR08" text="探险骑兵" />
+    <!-- 覆盖原版的商队头领名字 -->
+    <string id="NTMCR09" text="埃布拉蒙商队头领" />
+    <string id="NTMCR10" text="乌拉索维商队头领" />
+    <string id="NTMCR11" text="炎朝商队头领" />
+    <string id="NTMCR12" text="蒙戈黎安商队头领" />
+    <string id="NTMCR13" text="纳堪维亚商队头领" />
+    <string id="NTMCR14" text="普若尤恩商队头领" />
+    <string id="NTMCR15" text="雅瑞安商队头领" />
+    <string id="NTMCR16" text="落月商队头领" />
+    <!-- 覆盖原版商队护卫的名字 -->
+
+    <!-- 剧情用兵种 -->
+    <string id="STT01" text="奴隶劫匪" />
+    <string id="STT02" text="奴隶强盗" />
+    <string id="STT03" text="奴隶团战士" />
+    <string id="STT04" text="奴隶团骑手" />
+    <string id="STT05" text="" />
+    <string id="STT06" text="商队护卫" />
+    <string id="STT07" text="奴隶团射手" />
+    <string id="STT08" text="邪魔" />
+    <string id="STT09" text="劣等邪魔" />
+    <string id="STT10" text="狂躁邪魔" />
+    <string id="STT11" text="嗜血邪魔" />
+    <string id="STT12" text="邪魔幼体" />
+    <string id="STT13" text="邪魔母体" />
+    <string id="STT14" text="强壮邪魔" />
+
+    <!-- 特殊势力小家族用兵种 -->
+    <string id="NTMNR01" text="黑浪骑士" />
+    <string id="NTMNR02" text="暗夜噬魔" />
+    <string id="NTMNR03" text="血莲复仇骑士" />
+    <string id="NTMNR04" text="白霜圣殿战士" />
+    <string id="NTMNR05" text="邪炎骑士" />
+    <string id="NTMNR06" text="冥魂审判骑士" />
+
+    <!-- 特殊兵种 -->
+    <string id="NTSTY01" text="审判者" />
+    <string id="NTSTY02" text="银盾守护骑士" />
+    <string id="NTSTY03" text="希绝骑士" />
+
+  </strings>
+</base>

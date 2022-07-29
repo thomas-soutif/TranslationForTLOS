@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+  <!-- 远程武器的简体中文文本 -->
+  <!-- 炎朝远程武器开始 -->
+    <string id="CBJDY01" text="炎朝轻弩" />
+    <string id="CBJDY02" text="炎朝弩" />
+    <string id="CBJDY03" text="炎朝蹶张弩" />
+    <string id="CBJDY04" text="炎朝轻连弩" />
+    <string id="CBJDY05" text="炎朝连弩" />
+    <string id="CBJDY06" text="炎朝民兵弩" />
+  <!-- 炎朝远程武器结束 -->
+  <!-- 普若尤恩远程武器开始 -->
+    <string id="BOPRU01" text="普若尤恩短弓" />
+    <string id="BOPRU02" text="普若尤恩游击弓" />
+    <string id="BOPRU03" text="普若尤恩长弓" />
+    <string id="BOPRU04" text="普若尤恩长战弓" />
+  <!-- 普若尤恩远程武器结束 -->
+  <!-- 埃布拉蒙远程武器开始 -->
+    <string id="BORBL01" text="佣兵短弓" />
+    <string id="BORBL02" text="埃布拉蒙弓" />
+    <string id="BORBL03" text="埃布拉蒙硬弓" />
+    <string id="JARBL01" text="埃布拉蒙标枪" />
+    <string id="JARBL02" text="埃布拉蒙投矛" />
+  <!-- 埃布拉蒙远程武器结束 -->
+  <!-- 蒙戈黎安远程武器开始 -->
+    <string id="JAMGR01" text="游牧标枪" />
+    <string id="BOMGR01" text="蒙戈黎安猎弓" />
+    <string id="BOMGR02" text="蒙戈黎安游牧弓" />
+    <string id="BOMGR03" text="蒙戈黎安骑弓" />
+    <string id="BOMGR04" text="蒙戈黎安反曲弓" />
+    <string id="BOMGR05" text="蒙戈黎安硬弓" />
+    <string id="BOMGR06" text="蒙戈黎安战弓" />
+  <!-- 蒙戈黎安远程武器结束 -->
+  <!-- 纳堪维亚远程武器开始 -->
+    <string id="BONKN01" text="纳堪维亚猎弓" />
+    <string id="BONKN02" text="纳堪维亚短弓" />
+    <string id="JANKN01" text="纳堪维亚轻型飞斧" />
+    <string id="JANKN02" text="纳堪维亚轻型标枪" />
+    <string id="JANKN03" text="纳堪维亚标枪" />
+    <string id="JANKN04" text="纳堪维亚投矛" />
+    <string id="JANKN05" text="纳堪维亚飞斧" />
+    <string id="JANKN06" text="纳堪维亚重型飞斧" />
+  <!-- 纳堪维亚远程武器结束 -->
+  <!-- 乌拉索维远程武器开始 -->
+    <string id="BOWLT01" text="乌拉索维猎弓" />
+    <string id="BOWLT02" text="乌拉索维短弓" />
+    <string id="BOWLT03" text="乌拉索维硬弓" />
+    <string id="BOWLT04" text="乌拉索维游击弓" />
+    <string id="BOWLT05" text="乌拉索维战弓" />
+    <string id="BOWLT06" text="乌拉索维大师弓" />
+  <!-- 乌拉索维远程武器结束 -->
+  <!-- 落月远程武器开始 -->
+    <string id="BOLMC01" text="落月简易弓" />
+    <string id="BOLMC02" text="落月弓" />
+    <string id="BOLMC03" text="落月守备弓" />
+  <!-- 落月远程武器结束 -->
+  <!-- 雅瑞安远程武器开始 -->
+    <string id="BOYRN01" text="部落短弓" />
+    <string id="BOYRN02" text="部落弓" />
+    <string id="BOYRN03" text="雅瑞安弓" />
+    <string id="JAYRN01" text="丛林石子" />
+    <string id="JAYRN02" text="丛林石块" />
+    <string id="JAYRN03" text="丛林掷石" />
+    <string id="JAYRN04" text="丛林岩块" />
+    <string id="JAYRN05" text="鬣蜥掷石" />
+  <!-- 雅瑞安远程武器结束 -->
+  <!-- 强盗远程武器开始 -->
+    <string id="BOBDT01" text="异教短弓" />
+    <string id="BOBDT02" text="异教弓" />
+    <string id="BOBDT03" text="异教战弓" />
+    <string id="JABDT04" text="野林简易标枪" />
+    <string id="JABDT05" text="野林标枪" />
+    <string id="JABDT06" text="野林投矛" />
+    <string id="JABDT07" text="海盗飞斧" />
+    <string id="JABDT08" text="强盗飞刀" />
+    <string id="JABDT09" text="水贼飞刀" />
+  <!-- 强盗远程武器结束 -->
+  <!-- 艾灵族远程武器开始 -->
+    <string id="BOELN01" text="艾灵弓" />
+  <!-- 艾灵族远程武器结束 -->
+
+  </strings>
+</base>

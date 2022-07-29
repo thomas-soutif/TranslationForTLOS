@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+ <!-- 近战武器的简体中文文本 -->
+ <!-- 双手类武器开始 -->
+  <!-- 炎朝双手 -->
+    <string id="THJDY01" text="锄头" />
+  <!-- 普若尤恩双手 -->
+    <string id="THPRU01" text="荣誉骑士双手剑" />
+    <string id="THPRU02" text="强盗双手剑" />
+  <!-- 埃布拉蒙双手 -->
+    <string id="THRBL01" text="马穆鲁克卫士斧" />
+    <string id="THRBL02" text="马穆鲁克卫士锤" />
+    <string id="THRBL03" text="马穆鲁克重骑兵锤" />
+    <string id="THRBL04" text="马穆鲁克大师锤" />
+    <string id="THRBL05" text="马穆鲁克精英卫士锤" />
+    <string id="THRBL06" text="埃布拉蒙贵族双手弯刀" />
+  <!-- 纳堪维亚双手 -->
+    <string id="THNKN01" text="纳堪维亚猎人双手斧" />
+    <string id="THNKN02" text="纳堪维亚贵族双手斧" />
+  <!-- 乌拉索维双手 -->
+    <string id="THWLT01" text="伐木斧" />
+    <string id="THWLT02" text="乌拉索维双手斧" />
+    <string id="THWLT03" text="乌拉索维骑手斧" />
+    <string id="THWLT04" text="乌拉索维双手战斧" />
+    <string id="THWLT05" text="乌拉索维冲击斧" />
+    <string id="THWLT06" text="乌拉索维双手大棒" />
+    <string id="THWLT07" text="巨斧战士月刃斧" />
+    <string id="THWLT08" text="巨斧勇者月刃斧" />
+    <string id="THWLT09" text="巨斧豪杰月刃斧" />
+  <!-- 落月双手 -->
+    <string id="THLMC01" text="落月太刀" />
+    <string id="THLMC02" text="落月武士太刀" />
+    <string id="THLMC03" text="落月大太刀" />
+  <!-- 雅瑞安双手 -->
+    <string id="THYRN01" text="雅瑞安战士双手棒" />
+    <string id="THYRN02" text="雅瑞安战士巨棒" />
+    <string id="THYRN03" text="神鹫战棒" />
+  <!-- 无文化特殊双手 -->
+    <string id="THSTY01" text="暗黑大刀" />
+    <string id="THSTY02" text="梦境巨剑" />
+    <string id="THSTY03" text="卡普里尼残次品" />
+  <!-- 强盗双手 -->
+    <string id="THBDT01" text="背弃者双手剑" />
+    <string id="THBDT02" text="野林双手斧" />
+    <string id="THBDT03" text="野林游侠双手斧" />
+    <string id="THBDT04" text="海盗双手斧" />
+    <string id="THBDT05" text="无畏者双手斧" />
+  <!-- 特殊小家族双手 -->
+    <string id="THMNR01" text="噬魔巨刺" />
+  <!-- 艾灵族双手 -->
+    <string id="THELN01" text="艾灵双手剑" />
+
+ <!-- 双手类武器结束 -->
+
+ <!-- 单手类武器开始 -->
+  <!-- 炎朝单手 -->
+    <string id="OHJDY01" text="短横刀" />
+    <string id="OHJDY02" text="横刀" />
+    <string id="OHJDY03" text="雁翎刀" />
+    <string id="OHJDY04" text="太极剑" />
+    <string id="OHJDY05" text="雁翎长刀" />
+    <string id="OHJDY06" text="炎朝战斧" />
+    <string id="OHJDY07" text="精锐横刀" />
+    <string id="OHJDY08" text="农用镰刀" />
+    <string id="OHJDY09" text="戍边步卒剑" />
+    <string id="OHJDY10" text="戍边戟士剑" />
+    <string id="OHJDY11" text="都护府戟卫剑" />
+    <string id="OHJDY12" text="金瓜" />
+  <!-- 普若尤恩单手 -->
+    <string id="OHPRU01" text="单手镐" />
+    <string id="OHPRU02" text="普若尤恩民兵剑" />
+    <string id="OHPRU03" text="普若尤恩剑" />
+    <string id="OHPRU04" text="普若尤恩步兵剑" />
+    <string id="OHPRU05" text="普若尤恩短剑" />
+    <string id="OHPRU06" text="普若尤恩骑兵剑" />
+    <string id="OHPRU07" text="普若尤恩武装剑" />
+    <string id="OHPRU08" text="普若尤恩长剑" />
+    <string id="OHPRU09" text="普若尤恩战剑" />
+    <string id="OHPRU10" text="普若尤恩短战剑" />
+    <string id="OHPRU11" text="普若尤恩破阵长剑" />
+    <string id="OHPRU12" text="荣誉骑士剑" />
+    <string id="OHPRU13" text="逃犯单手锤" />
+    <string id="OHPRU14" text="强盗单手锤" />
+    <!-- 埃布拉蒙单手 -->
+    <string id="OHRBL01" text="小铁锤" />
+    <string id="OHRBL02" text="沙漠匕首" />
+    <string id="OHRBL03" text="佣兵短锤" />
+    <string id="OHRBL04" text="佣兵弯刀" />
+    <string id="OHRBL05" text="埃布拉蒙弯刀" />
+    <string id="OHRBL06" text="骑手弯刀" />
+    <string id="OHRBL07" text="埃布拉蒙螺旋锤" />
+    <string id="OHRBL08" text="埃布拉蒙资深弯刀" />
+    <string id="OHRBL09" text="埃布拉蒙短锤" />
+    <string id="OHRBL10" text="埃布拉蒙长弯刀" />
+    <string id="OHRBL11" text="埃布拉蒙骑兵锤" />
+    <string id="OHRBL12" text="埃布拉蒙钢锤" />
+    <string id="OHRBL13" text="埃布拉蒙战锤" />
+    <string id="OHRBL14" text="重型弯刀" />
+    <string id="OHRBL15" text="精锐弯刀" />
+    <string id="OHRBL16" text="马穆鲁克新兵斧" />
+    <string id="OHRBL17" text="马穆鲁克骑手斧" />
+    <string id="OHRBL18" text="马穆鲁克大师单手锤" />
+    <!-- 蒙戈黎安单手 -->
+    <string id="OHMGR01" text="圆头杖" />
+    <string id="OHMGR02" text="游牧单刀" />
+    <string id="OHMGR03" text="游牧弯刀" />
+    <string id="OHMGR04" text="宽刃游牧弯刀" />
+    <string id="OHMGR05" text="蒙戈黎安弯刀" />
+    <string id="OHMGR06" text="游牧骑手锤" />
+    <string id="OHMGR07" text="铁浮屠单手锤" />
+    <!-- 纳堪维亚单手 -->
+    <string id="OHNKN01" text="猎刀" />
+    <string id="OHNKN02" text="手斧" />
+    <string id="OHNKN03" text="短斧" />
+    <string id="OHNKN04" text="纳堪维亚轻斧" />
+    <string id="OHNKN05" text="纳堪维亚猎人斧" />
+    <string id="OHNKN06" text="纳堪维亚勇士斧" />
+    <string id="OHNKN07" text="纳堪维亚战斧" />
+    <string id="OHNKN08" text="纳堪维亚胡须战斧" />
+    <string id="OHNKN09" text="纳堪维亚短剑" />
+    <string id="OHNKN10" text="纳堪维亚短战剑" />
+    <string id="OHNKN11" text="纳堪维亚剑" />
+    <string id="OHNKN12" text="卫队斧" />
+    <string id="OHNKN13" text="皇家侍卫斧" />
+    <!-- 乌拉索维单手 -->
+    <string id="OHWLT01" text="尖刺锤" />
+    <string id="OHWLT02" text="乌拉索维工匠锤" />
+    <string id="OHWLT03" text="屠宰刀" />
+    <string id="OHWLT04" text="乌拉索维短刀" />
+    <string id="OHWLT05" text="乌拉索维士兵刀" />
+    <string id="OHWLT06" text="乌拉索维尖刺杖" />
+    <string id="OHWLT07" text="乌拉索维钉棒" />
+    <string id="OHWLT08" text="乌拉索维单手斧" />
+    <string id="OHWLT09" text="乌拉索维卫士刀" />
+    <string id="OHWLT10" text="乌拉索维军用杖" />
+    <!-- 落月单手 -->
+    <string id="OHLMC01" text="落月短刀" />
+    <string id="OHLMC02" text="落月胁差" />
+    <string id="OHLMC03" text="落月短打刀" />
+    <string id="OHLMC04" text="落月打刀" />
+    <!-- 雅瑞安单手 -->
+    <string id="OHYRN01" text="部落短棒" />
+    <string id="OHYRN02" text="部落棍棒" />
+    <string id="OHYRN03" text="部落嵌骨棒" />
+    <string id="OHYRN04" text="部落嵌骨坚棒" />
+    <string id="OHYRN05" text="雅瑞安嵌骨长棒" />
+    <string id="OHYRN06" text="雅瑞安嵌骨战棒" />
+    <!-- 采集工具 -->
+    <string id="OHSTY01" text="伐木斧" />
+    <string id="OHSTY02" text="采石镐" />
+    <!-- 无文化特殊单手 -->
+    <string id="OHSTY03" text="奥辛之斧" />
+    <string id="OHSTY04" text="骑士团审判剑" />
+    <string id="OHSTY05" text="银盾骑士剑" />
+    <!-- 特殊小家族单手 -->
+    <string id="OHMNR01" text="血莲晨星" />
+    <!-- 艾灵族单手 -->
+    <string id="OHELN01" text="艾灵佩剑" />
+    <string id="OHELN02" text="艾灵单手剑" />
+    <string id="OHELN03" text="艾灵族首领剑" />
+ <!-- 单手类武器结束 -->
+
+ <!-- 长杆类武器开始 -->
+  <!-- 炎朝长杆 -->
+    <string id="POJDY01" text="炎朝短矛" />
+    <string id="POJDY02" text="炎朝矛" />
+    <string id="POJDY03" text="步兵戈" />
+    <string id="POJDY04" text="炎朝步卒枪" />
+    <string id="POJDY05" text="槊" />
+    <string id="POJDY06" text="长槊" />
+    <string id="POJDY07" text="朴刀" />
+    <string id="POJDY08" text="陌刀" />
+    <string id="POJDY09" text="钉耙" />
+    <string id="POJDY10" text="戍边戟士戟" />
+    <string id="POJDY11" text="都护府戟卫戟" />
+    <string id="POJDY12" text="宽刃矛" />
+    <string id="POJDY13" text="炎朝民兵戈" />
+    <string id="POJDY14" text="马槊" />
+    <string id="POJDY15" text="青龙偃月刀" />
+    <string id="POJDY16" text="方天画戟" />
+  <!-- 普若尤恩长杆 -->
+    <string id="POPRU01" text="长镰刀" />
+    <string id="POPRU02" text="木锹" />
+    <string id="POPRU03" text="普若尤恩民兵矛" />
+    <string id="POPRU04" text="普若尤恩短矛" />
+    <string id="POPRU05" text="普若尤恩矛" />
+    <string id="POPRU06" text="普若尤恩轻型骑枪" />
+    <string id="POPRU07" text="普若尤恩长枪" />
+    <string id="POPRU08" text="普若尤恩大枪" />
+    <string id="POPRU09" text="普若尤恩重型骑枪" />
+    <string id="POPRU10" text="普若尤恩骑枪" />
+    <string id="POPRU11" text="荣誉骑士骑枪" />
+    <!-- 埃布拉蒙长杆 -->
+    <string id="PORBL01" text="木叉" />
+    <string id="PORBL02" text="埃布拉蒙短矛" />
+    <string id="PORBL03" text="马穆鲁克新兵竹矛" />
+    <string id="PORBL04" text="马穆鲁克骑手竹矛" />
+    <string id="PORBL05" text="马穆鲁克轻骑枪" />
+    <string id="PORBL06" text="马穆鲁克骑枪" />
+    <!-- 蒙戈黎安长杆 -->
+    <string id="POMGR01" text="耙子" />
+    <string id="POMGR02" text="短竹矛" />
+    <string id="POMGR03" text="蒙戈黎安简易矛" />
+    <string id="POMGR04" text="蒙戈黎安矛" />
+    <string id="POMGR05" text="蒙戈黎安短矛" />
+    <string id="POMGR06" text="蒙戈黎安重型短矛" />
+    <string id="POMGR07" text="蒙戈黎安轻骑枪" />
+    <string id="POMGR08" text="蒙戈黎安骑枪" />
+    <string id="POMGR09" text="部落重骑骑枪" />
+    <string id="POMGR10" text="铁浮屠骑枪" />
+    <string id="POMGR11" text="飞骑偃月刀" />
+    <string id="POMGR12" text="狂风偃月刀" />
+    <string id="POMGR13" text="蒙戈黎安民兵短矛" />
+    <string id="POMGR14" text="蒙戈黎安民兵矛" />
+    <!-- 纳堪维亚长杆 -->
+    <string id="PONKN01" text="叉" />
+    <string id="PONKN02" text="纳堪维亚贵族矛" />
+    <string id="PONKN03" text="纳堪维亚盾卫叉" />
+    <!-- 乌拉索维长杆 -->
+    <string id="POWLT01" text="雪地贵族骑枪" />
+    <!-- 落月长杆 -->
+    <string id="POLMC01" text="落月短矛" />
+    <string id="POLMC02" text="落月足轻矛" />
+    <string id="POLMC03" text="落月足轻枪" />
+    <string id="POLMC04" text="落月薙刀" />
+    <string id="POLMC05" text="落月长枪" />
+    <string id="POLMC06" text="落月武士枪" />
+    <string id="POLMC07" text="十文字枪" />
+    <!-- 雅瑞安长杆 -->
+    <string id="POYRN01" text="部落短矛" />
+    <string id="POYRN02" text="部落矛" />
+    <string id="POYRN03" text="部落阔刃矛" />
+    <!-- 强盗长杆 -->
+    <string id="POBDT02" text="荒漠竹矛" />
+    <string id="POBDT03" text="异教使者宽刃矛" />
+    <string id="POBDT04" text="异教护卫宽刃矛" />
+    <string id="POBDT05" text="异教大师宽刃矛" />
+    <string id="POBDT06" text="异教使者棍" />
+    <string id="POBDT07" text="异教护卫棍" />
+    <string id="POBDT08" text="异教大师棍" />
+    <!-- 中立长杆 -->
+    <string id="POBDT01" text="木棍" />
+    <!-- 特殊小家族长杆 -->
+    <string id="POMNR01" text="白霜圣殿矛" />
+    <string id="POMNR02" text="邪炎骑枪" />
+    <!-- 无文化特殊长杆 -->
+    <string id="POSTY01" text="铁脊纹铜矛" />
+    <string id="POSTY02" text="希绝骑士骑枪" />
+ <!-- 长杆类武器结束 -->
+
+  </strings>
+</base>
