@@ -122,58 +122,58 @@
     <string id="strQuestDescription058" text="Xiang Chuba joined your village, and taken the task of defending the village. He said something about the second time and so on, and said Lorin waits for you in the lords hall. Talk to Lorin about the plan to fight against the Slavers." />
     <string id="strQuestDescription060" text="By Lorin's plan, Rogue Xiang Chuba joins you to fight against the Slavers. Go back to your village, and ask Xiang Chuba how to protect the village." />
     <string id="strQuestDescription061" text="Lorin and you discuss the plan about Slavers, Derian by your side wants to say something. Talk to Derian ask if Sika Knight may help you to defeat the Slavers." />
-    <string id="strQuestDescription062" text="Derian explains, you refuse handle the proection for Lorin and Cagie to Sika Knight, they don't want to offer any help for you. Derian says if you want to know what happened between Cagie and Slavers, you should talk to Monnai, Sikan has a long history with Cagie." />
-    <string id="strQuestDescription063" text="Cheif Monnai told you all the history of Cagie, it seems Cagie has some secrets. But now you should talk to Lorin first, discuss how to defeat the Slavers." />
-    <string id="strQuestDescription064" text="Quest completed!You know the history of Cagie. Lorin gives you a map which have the locations of kingdoms you should to visit, you need to try to find out other factions that are willing to fight against the Slavers." />
+    <string id="strQuestDescription062" text="Derian explains, but you refuse hand the protection for Lorin and Cagie to Sika Knight. They don't want to offer any help to you. Derian says that if you want to know what happened between Cagie and Slavers, you should talk to Monnai. Sikans have a long history with Cagie." />
+    <string id="strQuestDescription063" text="Chief Monnai told you the history of Cagie. It seems Cagie has some secrets. Now you should talk to Lorin first to discuss how to defeat the Slavers." />
+    <string id="strQuestDescription064" text="Quest completed! You know the history of Cagie. Lorin gives you a map which have the locations of kingdoms you should to visit. You need to seek other factions that are willing to fight against the Slavers." />
    <!-- QuestWiseSage任务菜单的任务描述结束 -->
   <!-- 文件QuestWiseSage.cs结束 -->
 
   <!-- 文件QuestBanditXiang.cs开始 -->
    <!-- QuestBanditXiang任务菜单的任务描述开始 -->
-    <string id="strQuestDescription054" text="Lorin of the Cagie tell you If you want to persuade Xiang , a rogue who has a reputation of robs the rich and helps the poor, to join you. you must defeat him first. He seems to be near the village. Find and defeat him." />
-    <string id="strQuestDescription055" text="You found Xiang near your settlement and defeated him. But looks like He doesn't trust you and won't easily change his mind. Since Lorin give you that advice, it's better to go back and ask Lorin what to do next. He should have new plan for that." />
-    <string id="strQuestDescription056" text="After you go back to find Lorin, he says that he has a new plan for xiang. As soon as you had discussed the plan, A scout tell you  Xiang and his force are marching toward your settlement. Lorin asked you to go out and fight." />
-    <string id="strQuestDescription057" text="Task completed! after you finished lorin's plan and trapped Xiang, Lorin appears and makes him join you. A guardian with such  powerful hidden forces will surely offer your settlement some sort of protection." />
+    <string id="strQuestDescription054" text="Lorin of the Cagie tells you that if you want to persuade Xiang, a rogue who has a reputation of robbing the rich and helps the poor, to join your cause, you must defeat him first. He seems to be near the village. Find and defeat him." />
+    <string id="strQuestDescription055" text="You found Xiang near your settlement and defeated him, but he doesn't trust you and won't change his mind easily. Since Lorin gave you that advice, it's better to go back and ask him what to do next. He should have new plan." />
+    <string id="strQuestDescription056" text="After you go back to find Lorin, he says that he has a new plan for Xiang. As you discussed the plan, a scout tells you Xiang and his forces are marching toward your settlement. Lorin suggests you to go out and fight." />
+    <string id="strQuestDescription057" text="Task completed! After you finished Lorin's plan and trapped Xiang, Lorin appears and persuades him to join you. A guardian with such powerful hidden forces will surely offer your settlement some sort of protection." />
    <!-- QuestBanditXiang任务菜单的任务描述结束 -->
   <!-- 文件QuestBanditXiang.cs结束 -->
 
   <!-- 文件QuestBanishLand.cs开始 -->
    <!-- QuestBanishLand任务菜单的任务描述开始 -->
-    <string id="strQuestDescription1001" text="Elin's queen Radruweel want you to go to The State of Banishment, and clean out all the Devour Demons there." />
-    <string id="strQuestDescription1002" text="By the power of Bracelet you enter The State of Banishment. Leave here and report you progress with Elin's queen Radruweel." />
-    <string id="strQuestDescription1003" text="Elin becomes your ally. Elin's princess Melethvon joins your party. At the same time, every week, once the power of Bracelet recovered, you can enter The state of banishment by any town's menu option.{newline}(1.4.7 The story line ends here, thanks to play this mod, please wait for update!)" />
+    <string id="strQuestDescription1001" text="Elin's queen Radruweel wants you to go to The State of Banishment, and clear out all of the Devour Demons there." />
+    <string id="strQuestDescription1002" text="By the power of Bracelet you enter The State of Banishment. Leave here and report your progress with Elin's queen Radruweel." />
+    <string id="strQuestDescription1003" text="Elin becomes your ally. Elin's princess Melethvon joins your party. At the same time, every week, the power of Bracelet is restored. You can enter The state of banishment in any town's menu option.{newline}(1.4.7 The story line ends here, thanks to play this mod, please wait for update!)" />
    <!-- QuestBanishLand任务菜单的任务描述结束 -->
   <!-- 文件QuestBanishLand.cs结束 -->
 
   <!-- 文件QuestSikaHistoryKajer.cs开始 -->
-    <string id="strQuestDescription1101" text="This quest is a record of History of Sika. This quest will document the history of Cagie in the land of sika." />
+    <string id="strQuestDescription1101" text="This quest is a historical record of Sika. This quest will document the history of Cagie in the land of Sika." />
     <string id="strQuestDescription1102" text="The History of Cagie one: Lorin tells you that Xiang Chuba is also a member of the Cagie nationality, which has endless gratitude and resentment with the slaver group." />
-    <string id="strQuestDescription1103" text="The History of Cagie two: Derian said to you that the Sika Knight church has a bad relationship with the Cagie people, and Sikans seem to have a very long relationship with the Cagie people." />
-    <string id="strQuestDescription1104" text="The History of Cagie three: Monnai said to you that according to the historical records of Sika, the Cagies and Sikans had a good relationship a long time ago because the leaders of both sides became friends, and they were also a few forces on the mainland that maintained friendship with Sikans." />
-    <string id="strQuestDescription1105" text="The History of Cagie four: Monnai told you that according to the information circulating on the mainland, more than 100 years ago, the king of the Cagie nationality married a slave woman, which caused the invasion of the slaver group and eventually destroyed the kingdom. The current Cagie nationality should have escaped and survived in those years." />
+    <string id="strQuestDescription1103" text="The History of Cagie two: Derian explains to you that the Sika Knight church has a bad relationship with the Cagie people, and Sikans seem to have a very long relationship with the Cagie people." />
+    <string id="strQuestDescription1104" text="The History of Cagie three: Monnai said that according to the historical records of Sika, the Cagies and Sikans had a good relationship a long time ago because the leaders of both sides became friends. There were also a few forces on the mainland that maintained friendship with Sikans." />
+    <string id="strQuestDescription1105" text="The History of Cagie four: Monnai told you that according to information circulating on the mainland more than 100 years ago, the king of the Cagie nationality married a slave woman, which caused the invasion of the slaver group and eventually destroyed the kingdom. The current Cagie nationality should have escaped and survived in those years." />
     <string id="strQuestDescription1106" text="The History of Cagie five: Monnai told you that it is said that a few years ago, the remaining stronghold of the Cagie people was attacked by the slaver group again. If it weren't for your help, the Cagie clan would no longer exist." />
-    <string id="strQuestDescription1107" text="The History of Cagie six: Lorin tells you about the history of the Cagie nationality. 126 years ago, that is, the 1177 calendar of Sika, the slave group invaded the kingdom of the Cagie nationality, and the current Cagie nationality is the only surviving offspring of that year." />
-    <string id="strQuestDescription1108" text="The History of Cagie seven: Lorin said to you that 126 years ago, the queen of the Cagie nationality was not a slave, but an outstanding queen who led the Cagie nationality to prosperity. This was just an excuse for the slaver group to plunder them." />
+    <string id="strQuestDescription1107" text="The History of Cagie six: Lorin tells you about the history of the Cagie nationality. 126 years ago, that is, the 1177 calendar of Sika, the slave group invaded the kingdom of the Cagie nationality and the current Cagie nationality is the only surviving offspring of that year." />
+    <string id="strQuestDescription1108" text="The History of Cagie seven: Lorin said that 126 years ago, the queen of the Cagie nationality was not a slave, but an outstanding queen who led the Cagie nationality to prosperity. This was just an excuse for the slaver group to plunder them." />
     <string id="strQuestDescription1109" text="The History of Cagie eight: Lorin tells you that a few years ago, the slaver group attacked their stronghold again, and he is the current leader of the Cagie clan: Cagie Holland Isabel Lorin." />
   <!-- 文件QuestSikaHistoryKajer.cs结束 -->
 
   <!-- 文件QuestMysteriousWitch.cs开始 -->
-    <string id="strQuestDescription1201" text="Lorin has told you the location of the major forces you should go to. He said that the clan leader Monnai had extra things to tell you. Go and ask him what else he would say." />
+    <string id="strQuestDescription1201" text="Lorin has given you the location of the major forces you should visit. He said that the clan leader Monnai had extra things to tell you. Go and ask him what else he would say." />
     <string id="strQuestDescription1202" text="Monet said that in" />
     <string id="strQuestDescription1203" text="Northeast of the forest" />
     <string id="strQuestDescription1204" text="There is the witch of the prophet may be able to help you." />
-    <string id="strQuestDescription1205" text="You come to the cottage that chief Monnai said. A witch seems to take you into a strange dream, and you are killed by the enemy in the dream." />
-    <string id="strQuestDescription1206" text="You finally wake up from your dream. Where is this? So you didn't die? There was a sound outside the door. Go out and see what happened." />
+    <string id="strQuestDescription1205" text="You come to the cottage that chief Monnai spoke about. A witch seems to take you into a strange dream, where you are killed by the enemy." />
+    <string id="strQuestDescription1206" text="You finally wake up from your dream. Where is this? So you didn't die? There was a sound outside the door. Go out and investigate." />
     <string id="strQuestDescription1207" text="Lotas, the apprentice of the witch, told you what happened. What you saw and experienced was the future, but Lotas said it was only a possibility, and people could change their fate." />
     <string id="strQuestDescription1208" text="Quest accomplished! Lotas, the apprentice of the witch, gave you a Bracelet and decided to join your team to travel to the mainland. She said you need to go to the forests in the northwest of the mainland to find the stronghold of the Elin nationality. (the far north of the continent is covered with ice and snow.)" />
   <!-- 文件QuestMysteriousWitch.cs结束 -->
 
   <!-- 文件QuestElinVillage.cs开始 -->
     <string id="strQuestDescription1301" text="The wizard apprentice Lotas gave you a Bracelet and said that if you want to solve the problem at hand, you need to go to the forest near the northwest corner of the mainland" />
-    <string id="strQuestDescription1302" text=", find a way to enter the settlement of the Elin clan, where someone may be able to help you. (the far north of the continent is a land covered with snow.)" />
+    <string id="strQuestDescription1302" text=", find a way to enter the settlement of the Elin clan. Once there, someone may be able to help you. (the far north of the continent is a land covered with snow.)" />
     <string id="strQuestDescription1303" text="You saved Geliran, the Scout of the Elin clan, outside the misty forest. She told you that Princess Melethvon of the Elin clan was captured by the slaver group. You have to go quickly." />
     <string id="strQuestDescription1304" text="Save Princess Melethvon near. Maybe you can find a way to enter the Elin stronghold through them." />
-    <string id="strQuestDescription1305" text="You rescued princess Melethvon from the hands of the slaver group. When you showed her the Bracelet Lotas gave you, she decided to take you into the territory of the Elin clan." />
+    <string id="strQuestDescription1305" text="You rescued princess Melethvon from the hands of the slaver group. When you showed her the Bracelet Lotas gave you. She decided to take you into the territory of the Elin clan." />
     <string id="strQuestDescription1306" text="Under the leadership of the princess of the Elin clan, you have successfully entered the stronghold of the Elin clan. Go to find Geliran first." />
     <string id="strQuestDescription1307" text="Geliran has told the queen of the Elin family about you, Radruweel. Talk to Radruweel of Elin's stronghold and see if she can resist the slaver group with you." />
     <string id="strQuestDescription1308" text="Elin queen Radruweel told you about the Devour Demons and The state of banishment. You need to help the Elin clan clean up the demons in The state of banishment in exchange for the help of the Elin clan." />
@@ -195,18 +195,18 @@
 
  <!-- MainBehaviour翻译-->
     <string id="strQuestMainBehaviour000" text="After the night attack" />
-    <string id="strQuestMainBehaviour001" text="You wake up from a coma, you push away a dead body on you, and try to remember what happened last night. You were knocked down in the attack and can't remember the rest. You bandage your wound and find the caravan leader Vilken is looking for something in the destroyed camp." />
-    <string id="strQuestMainBehaviour002" text="Get Up and ask Vilken" />
+    <string id="strQuestMainBehaviour001" text="You wake up from a coma. You push away a dead body on you, and try to remember what happened last night. You were knocked down in the attack and can't remember the rest. You bandage your wound and find the caravan leader Vilken is looking for something in the destroyed camp." />
+    <string id="strQuestMainBehaviour002" text="Get up and ask Vilken" />
     <string id="strQuestMainBehaviour003" text="Caravan Leader Vilken" />
     <string id="strQuestMainBehaviour004" text="The power of Bracelet has recovered, you can enter The state of banishment." />
 
  <!-- QuestFirst翻译-->
     <string id="strQuestFirst000" text="You survived the attack last night, in your burned campsite the carvan master is searching something, perhaps you should ask him what happened." />
-    <string id="strQuestFirst001" text="Gather your soliders" />
+    <string id="strQuestFirst001" text="Gather your soldiers" />
     <string id="strQuestFirst002" text="Attack the bandits" />
     <string id="strQuestFirst003" text="Slavers Bandit" />
     <string id="strQuestFirst004" text="Slavers Bandit Leader" />
-    <string id="strQuestFirst005" text="Caravan master Vilken wants you to attack the bandit party from last night, and get back all his goods and one important letter. You should gather 10 troops first." />
+    <string id="strQuestFirst005" text="Caravan master Vilken wants you to attack the bandit party from last night and get back all his goods including an important letter. You should gather 10 troops first." />
     <string id="strQuestFirst006" text="Vilken find out the bandit party from the night is hidding around {SETTLEMENT}, you should go there carefully and ambush them one by one." />
     <string id="strQuestFirst007" text="You defeat all the surrounding bandits, it is time to attack their leader and get back Vilken's goods and letter." />
     <string id="strQuestFirst008" text="Quest Completed! You have successfully defeat all the bandits around {SETTLEMENT}, you helped Vilken to get back his goods and the letter." />
@@ -223,7 +223,7 @@
     <string id="strQuestPartyName011" text="Slaver Escort Party" />
     <string id="strQuestPartyName012" text="Xiang the Bandit" />
     <string id="strQuestPartyName013" text="Dark Demon" />
-    <string id="strQuestPartyName014" text="Slaver Invaters" />
+    <string id="strQuestPartyName014" text="Slaver Invaders" />
  <!-- QuestPartyName所有部队名结束 -->
 
  <!-- 文件QuestInitBehaviour.cs开始 -->
