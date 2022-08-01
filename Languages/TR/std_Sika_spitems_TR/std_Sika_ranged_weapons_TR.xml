@@ -6,81 +6,81 @@
   <strings>
   <!-- 远程武器的英文文本 -->
   <!-- 炎朝远程武器开始 -->
-    <string id="CBJDY01" text="Yan Light Crossbow" />
-    <string id="CBJDY02" text="Yan Crossbow" />
-    <string id="CBJDY03" text="Yan Heavy Crossbow" />
-    <string id="CBJDY04" text="Yan Light Repeating Crossbow" />
-    <string id="CBJDY05" text="Yan Repeating Crossbow" />
-    <string id="CBJDY06" text="Yan Defence Crossbow" />
+    <string id="CBJDY01" text="Yan Hafif Arbalet" />
+    <string id="CBJDY02" text="Yan Arbaleti" />
+    <string id="CBJDY03" text="Yan Ağır Arbalet" />
+    <string id="CBJDY04" text="Yan Hafifyay Repeating Crossbow" />
+    <string id="CBJDY05" text="Yan Tekrarlayan Arbalet" />
+    <string id="CBJDY06" text="Yan Savunma Arbalet" />
   <!-- 炎朝远程武器结束 -->
   <!-- 普若尤恩远程武器开始 -->
-    <string id="BOPRU01" text="Prouen Short Bow" />
-    <string id="BOPRU02" text="Poruen Ranged Bow" />
-    <string id="BOPRU03" text="Prouen Long Bow" />
-    <string id="BOPRU04" text="Prouen Long War Bow" />
+    <string id="BOPRU01" text="Prouen Kısa Yay" />
+    <string id="BOPRU02" text="Poruen Menzili Yay" />
+    <string id="BOPRU03" text="Prouen Uzun Yay" />
+    <string id="BOPRU04" text="Prouen Uzun Savaş Yayı" />
   <!-- 普若尤恩远程武器结束 -->
   <!-- 埃布拉蒙远程武器开始 -->
-    <string id="BORBL01" text="Mercenary Short Bow" />
-    <string id="BORBL02" text="Rabblam Bow" />
-    <string id="BORBL03" text="Rabblam Strong Bow" />
-    <string id="JARBL01" text="Rabblam Javelin" />
-    <string id="JARBL02" text="Rabblam Heavy Javelin" />
+    <string id="BORBL01" text="Paralı Kısa Yay" />
+    <string id="BORBL02" text="Rabblam Yay" />
+    <string id="BORBL03" text="Rabblam Güçlü Yay" />
+    <string id="JARBL01" text="Rabblam Cirit" />
+    <string id="JARBL02" text="Rabblam Ağır cirit " />
   <!-- 埃布拉蒙远程武器结束 -->
   <!-- 蒙戈黎安远程武器开始 -->
     <string id="JAMGR01" text="Nomad Javelin" />
-    <string id="BOMGR01" text="Mogrian Hunting Bow" />
-    <string id="BOMGR02" text="Mogrian Nomad Bow" />
-    <string id="BOMGR03" text="Mogrian Rider Bow" />
-    <string id="BOMGR04" text="Mogrian Recurve Bow" />
-    <string id="BOMGR05" text="Mogrian Hard Bow" />
-    <string id="BOMGR06" text="Mogrian War Bow" />
+    <string id="BOMGR01" text="Mogrian Av oku" />
+    <string id="BOMGR02" text="Mogrian Göçebe yay" />
+    <string id="BOMGR03" text="Mogrian Binici yay" />
+    <string id="BOMGR04" text="Mogrian Yürür Yayı" />
+    <string id="BOMGR05" text="Mogrian Sert yay" />
+    <string id="BOMGR06" text="MogrianSavaş Yay "/>
   <!-- 蒙戈黎安远程武器结束 -->
   <!-- 纳堪维亚远程武器开始 -->
-    <string id="BONKN01" text="Nekenia Hunting Bow" />
-    <string id="BONKN02" text="Nekenia Short Bow" />
-    <string id="JANKN01" text="Nekenia Light Throwing Axe" />
-    <string id="JANKN02" text="Nekenia Light Javelin" />
-    <string id="JANKN03" text="Nekenia Javelin" />
-    <string id="JANKN04" text="Nekenia Throwing Spear" />
-    <string id="JANKN05" text="Nekenia Throwing Axe" />
-    <string id="JANKN06" text="Nekenia Heavy Throwing Axe" />
+    <string id="BONKN01" text="Nekenia Av oku" />
+    <string id="BONKN02" text="Nekenia Kısa yay" />
+    <string id="JANKN01" text="Nekenia Işık fırlatma balta" />
+    <string id="JANKN02" text="Nekenia Hafif cirit" />
+    <string id="JANKN03" text="Nekenia Cirit" />
+    <string id="JANKN04" text="Nekenia Mızrak atma" />
+    <string id="JANKN05" text="Nekenia Balta fırlatma" />
+    <string id="JANKN06" text="Nekenia Ağır fırlatma balta "/>
   <!-- 纳堪维亚远程武器结束 -->
   <!-- 乌拉索维远程武器开始 -->
-    <string id="BOWLT01" text="Wulltes Hunting Bow" />
-    <string id="BOWLT02" text="Wulltes Short Bow" />
-    <string id="BOWLT03" text="Wulltes Strong Bow" />
-    <string id="BOWLT04" text="Wulltes Ranged Bow" />
-    <string id="BOWLT05" text="Wulltes War Bow" />
-    <string id="BOWLT06" text="Wulltes Master Bow" />
+    <string id="BOWLT01" text="Wulltes Av oku" />
+    <string id="BOWLT02" text="Wulltes Kısa yay" />
+    <string id="BOWLT03" text="Wulltes Güçlü yay " />
+    <string id="BOWLT04" text="Wulltes Menzilli yay " />
+    <string id="BOWLT05" text="Wulltes Savaş Yay "/>
+    <string id="BOWLT06" text="Wulltes Usta yay" />
   <!-- 乌拉索维远程武器结束 -->
   <!-- 落月远程武器开始 -->
-    <string id="BOLMC01" text="Lomoca Simple Bow" />
-    <string id="BOLMC02" text="Lomoca Bow" />
-    <string id="BOLMC03" text="Lomoca Garrison Bow" />
+    <string id="BOLMC01" text="Lomoca Basit Yay " />
+    <string id="BOLMC02" text="Lomoca Yay" />
+    <string id="BOLMC03" text="Lomoca Garnizon yay" />
   <!-- 落月远程武器结束 -->
   <!-- 雅瑞安远程武器开始 -->
-    <string id="BOYRN01" text="Tribal Short Bow" />
-    <string id="BOYRN02" text="Tribal Bow" />
-    <string id="BOYRN03" text="Yarian Bow" />
-    <string id="JAYRN01" text="Jungle Gravel" />
-    <string id="JAYRN02" text="Jungle Stone" />
-    <string id="JAYRN03" text="Jungle Throwing Stone" />
-    <string id="JAYRN04" text="Jungle Rock" />
-    <string id="JAYRN05" text="Agama Rock" />
+    <string id="BOYRN01" text="Kabile kısa yay" />
+    <string id="BOYRN02" text="Kabile yay" />
+    <string id="BOYRN03" text="Yarian yay" />
+    <string id="JAYRN01" text="Orman çakıl" />
+    <string id="JAYRN02" text="Orman Taş" />
+    <string id="JAYRN03" text="Orman Atma Taş" />
+    <string id="JAYRN04" text="Orman Kaynak" />
+    <string id="JAYRN05" text="Agama Kaynak" />
   <!-- 雅瑞安远程武器结束 -->
   <!-- 强盗远程武器开始 -->
-    <string id="BOBDT01" text="Pagan Short Bow" />
-    <string id="BOBDT02" text="Pagan Bow" />
-    <string id="BOBDT03" text="Pagan War Bow" />
-    <string id="JABDT04" text="Wild Woods Simple Javelin" />
-    <string id="JABDT05" text="Wild Woods Javelin" />
-    <string id="JABDT06" text="Wild Woods Throwing Spear" />
-    <string id="JABDT07" text="Pirate Throwing Axe" />
-    <string id="JABDT08" text="Bandit Throwing Dagger" />
-    <string id="JABDT09" text="Looter Throwing Knife" />
+    <string id="BOBDT01" text="Pagan Kısa Yay" />
+    <string id="BOBDT02" text="Pagan yay" />
+    <string id="BOBDT03" text="Pagan savaş yay" />
+    <string id="JABDT04" text="Vahşi Orman Basit Cirit" />
+    <string id="JABDT05" text="Vahşi Orman Cirit" />
+    <string id="JABDT06" text="Vahşi ormanlar fırlatma mızrağı" />
+    <string id="JABDT07" text="Korsan atma balta" />
+    <string id="JABDT08" text="Haydut atma hançeri" />
+    <string id="JABDT09" text="Yağmacı fırlatma bıçağı" />
   <!-- 强盗远程武器结束 -->
   <!-- 艾灵族远程武器开始 -->
-    <string id="BOELN01" text="Elin Bow" />
+    <string id="BOELN01" text="Elin Yay" />
   <!-- 艾灵族远程武器结束 -->
 
   </strings>

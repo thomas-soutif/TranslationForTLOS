@@ -297,6 +297,17 @@
     <string id="STT13" text="邪魔母体" />
     <string id="STT14" text="强壮邪魔" />
 
+    <string id="NTSTY04" text="奴隶团劫匪" />
+    <string id="NTSTY05" text="奴隶团打手" />
+    <string id="NTSTY06" text="奴隶团强盗" />
+    <string id="NTSTY07" text="奴隶团游击手" />
+    <string id="NTSTY08" text="奴隶团骑手" />
+    <string id="NTSTY09" text="奴隶团战士" />
+    <string id="NTSTY10" text="奴隶团射手" />
+    <string id="NTSTY11" text="奴隶团拷打者" />
+    <string id="NTSTY12" text="奴隶团追猎者" />
+    <string id="NTSTY13" text="奴隶团队长" />
+
     <!-- 特殊势力小家族用兵种 -->
     <string id="NTMNR01" text="黑浪骑士" />
     <string id="NTMNR02" text="暗夜噬魔" />

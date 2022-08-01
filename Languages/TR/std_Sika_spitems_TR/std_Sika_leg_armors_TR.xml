@@ -6,48 +6,48 @@
   <strings>
   <!-- 腿甲的英文文本 -->
   <!-- 炎朝 -->
-    <string id="LAJDY01" text="Farmer Shoes" />
-    <string id="LAJDY02" text="Yan Shoes" />
-    <string id="LAJDY03" text="Yan Leather Boots" />
-    <string id="LAJDY04" text="Yan Infantry Boots" />
-    <string id="LAJDY05" text="Yan Infantry Pointed Boots" />
-    <string id="LAJDY06" text="Yan Chausses" />
-    <string id="LAJDY07" text="Yan Rider Boots" />
-    <string id="LAJDY08" text="Studded Golden Boots" />
-    <string id="LAJDY09" text="Golden Plate Boots" />
-    <string id="LAJDY10" text="Black Plate Boots" />
-    <string id="LAJDY11" text="Black Light Boots" />
-    <string id="LAJDY12" text="Crude Golden Boots" />
-    <string id="LAJDY13" text="Crude Plate Boots" />
-    <string id="LAJDY14" text="Crude Plate Boots" />
+    <string id="LAJDY01" text="Çiftçi ayakkabıları" />
+    <string id="LAJDY02" text="Yan Ayakkabı" />
+    <string id="LAJDY03" text="Yan Deri çizmesi" />
+    <string id="LAJDY04" text="Yan Piyade botları" />
+    <string id="LAJDY05" text="Yan Piyade sivri botlar" />
+    <string id="LAJDY06" text="Yan Ayakkabı" />
+    <string id="LAJDY07" text="Yan Süvari botları" />
+    <string id="LAJDY08" text="Studded Altın Bot " />
+    <string id="LAJDY09" text="Altın Plaka Bot ayakkabı" />
+    <string id="LAJDY10" text="Siyah Plaka Bot ayakkabı" />
+    <string id="LAJDY11" text="Siyah Işık Bot ayakkabı" />
+    <string id="LAJDY12" text="Ham Altın Bot ayakkabı" />
+    <string id="LAJDY13" text="Ham Plaka Bot ayakkabı" />
+    <string id="LAJDY14" text="Ham Plaka Bot ayakkabı" />
 
   <!-- 普若尤恩 -->
-    <string id="LAPRU01" text="Prouen Simple Leather Boots" />
-    <string id="LAPRU02" text="Prouen Mail Chausses" />
-    <string id="LAPRU03" text="Prouen Infantry Mail Chausses" />
-    <string id="LAPRU04" text="Prouen Wrapped Leather Boots" />
-    <string id="LAPRU05" text="Prouen Leather Boots" />
-    <string id="LAPRU06" text="Prouen Splint Boots" />
-    <string id="LAPRU07" text="Prouen Heavy Splint Boots" />
+    <string id="LAPRU01" text="Prouen Basit deri botlar" />
+    <string id="LAPRU02" text="Prouen Zincir Ayakkabı " />
+    <string id="LAPRU03" text="Prouen Piyade Zincir Ayakkabı" />
+    <string id="LAPRU04" text="Prouen Sarılmış deri botlar" />
+    <string id="LAPRU05" text="Prouen Deri Çizmeler" />
+    <string id="LAPRU06" text="Prouen Atel Bot Ayakkabı" />
+    <string id="LAPRU07" text="Prouen Ağır Atel Bot Ayakkabı" />
   <!-- 埃布拉蒙 -->
-    <string id="LARBL01" text="Mercenary Boots" />
-    <string id="LARBL02" text="Rabblam Leather Boots" />
-    <string id="LARBL03" text="Rabblam Mail Boots" />
+    <string id="LARBL01" text="Paralı Asker Bot" />
+    <string id="LARBL02" text="Rabblam deri Botlar" />
+    <string id="LARBL03" text="Rabblam Zincir Botları" />
   <!-- 蒙戈黎安 -->
-    <string id="LAMGR01" text="Mogrian Leather Boots" />
-    <string id="LAMGR02" text="Mogrian Suede Boots" />
+    <string id="LAMGR01" text="Mogrian Deri Çizmeler" />
+    <string id="LAMGR02" text="Mogrian Süet Botlar" />
   <!-- 落月 -->
-    <string id="LALMC01" text="Lomoca Villager Shoes" />
-    <string id="LALMC02" text="Lomoca Ashigaru Shoes" />
-    <string id="LALMC03" text="Lomoca Boots" />
-    <string id="LALMC04" text="Lomoca Mail Chausses" />
+    <string id="LALMC01" text="LomocaKöylü Ayakkabılar " />
+    <string id="LALMC02" text="Lomoca Ashikagi resim s" />
+    <string id="LALMC03" text="Lomoca Bot ayakkabı" />
+    <string id="LALMC04" text="Lomoca Zincir Ayakkabı " />
   <!-- 雅瑞安 -->
-    <string id="LAYRN01" text="Yarian Tribal Shoes" />
-    <string id="LAYRN02" text="Yarian Warrior Shoes" />
-    <string id="LAYRN03" text="Yarian Vultur Boots" />
-    <string id="LAYRN04" text="Yarian Agama Boots" />
+    <string id="LAYRN01" text="Yarian Kabile Ayakkabıları" />
+    <string id="LAYRN02" text="Yarian Savaşçı Ayakkabıları" />
+    <string id="LAYRN03" text="Yarian Vultur Botları" />
+    <string id="LAYRN04" text="Yarian Din Bot Ayakkabı" />
   <!-- 其他 -->
-    <string id="LASTY01" text="Dark Plate Boots" />
-    <string id="LASTY02" text="Sika Knight Plate Boots" />
+    <string id="LASTY01" text="Karanlık Plaka Botlar " />
+    <string id="LASTY02" text="Sika Şövalye Plaka Botları" />
   </strings>
 </base>

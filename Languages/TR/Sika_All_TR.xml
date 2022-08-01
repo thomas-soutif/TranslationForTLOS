@@ -4,7 +4,7 @@
     <tag language="Türkçe" />
   </tags>
   <strings>
-    <!-- 扎堆沙盒通用文本 -->
-    <string id="TWOCstrAnm001" text="You try to escape the darkness" />
+    <!-- Lisansüstü metin -->
+    <string id="TWOCstrAnm001" text="Karanlıktan kaçmaya çalışıyorsun" />
   </strings>
 </base>
