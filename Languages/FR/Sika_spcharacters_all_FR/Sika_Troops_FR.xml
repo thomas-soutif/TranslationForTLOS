@@ -6,33 +6,33 @@
   <strings>
   <!-- 兵种名称的英文文本 -->
   <!-- 炎朝 -->
-    <string id="NTJDY01" text="Yan Farmer" />
-    <string id="NTJDY02" text="Yan Recruit" />
-    <string id="NTJDY03" text="Yan Light Infantry" />
-    <string id="NTJDY04" text="Yan Light Spearman" />
-    <string id="NTJDY05" text="Yan Light Crossbowman" />
-    <string id="NTJDY06" text="Yan Infantry" />
-    <string id="NTJDY07" text="Yan Dagger-Axe Infantry" />
-    <string id="NTJDY08" text="Yan Mainstay Crossbowman" />
-    <string id="NTJDY09" text="Yan Mainstay Infantry" />
-    <string id="NTJDY10" text="Yan Triple-Pointed-Blade Infantry" />
-    <string id="NTJDY11" text="Yan Cavalry" />
-    <string id="NTJDY12" text="Yan Tiger Knight" />
-    <string id="NTJDY13" text="Yan Heavy Infantry" />
-    <string id="NTJDY14" text="Yan Po-Blade Warrior" />
-    <string id="NTJDY15" text="Yan Heavy Crossbowman" />
-    <string id="NTJDY16" text="Yan Heavy Mo-Blade Warrior" />
-    <string id="OTJDY17" text="Yan Border Recruit" />
-    <string id="OTJDY18" text="Yan Border Infantry" />
-    <string id="OTJDY19" text="Yan Repeating Crossbowman" />
-    <string id="OTJDY20" text="Yan Border Halberdier" />
-    <string id="OTJDY21" text="Yan Protectorate Crossbowman" />
-    <string id="OTJDY22" text="Yan Protectorate Halberdier" />
-    <string id="MLTJDY23" text="Yan Defence Infantry" />
-    <string id="MLTJDY24" text="Yan Defence Crossbowman" />
-    <string id="MLTJDY25" text="Yan Armed Defence Infantry" />
-    <string id="MLTJDY26" text="Yan Trained Defence Crossbowman" />
-    <string id="OTJDY27" text="Yan Border Crossbowman" />
+    <string id="NTJDY01" text="Fermier de Yan"/>
+    <string id="NTJDY02" text="Recrue de Yan"/>
+    <string id="NTJDY03" text="Infanterie Légère de Yan"/>
+    <string id="NTJDY04" text="Lancier de Yan"/>
+    <string id="NTJDY05" text="Arbalétrier Léger de Yan"/>
+    <string id="NTJDY06" text="Infanterie Yan"/>
+    <string id="NTJDY07" text="Infanterie Dague-Hache de Yan"/>
+    <string id="NTJDY08" text="Arbalétrier de Soutien de Yan"/>
+    <string id="NTJDY09" text="Infanterie de Soutien de Yan"/>
+    <string id="NTJDY10" text="Infanterie à Triple Lame de Yan"/>
+    <string id="NTJDY11" text="Cavalerie de Yan"/>
+    <string id="NTJDY12" text="Chevalier Tigre de Yan"/>
+    <string id="NTJDY13" text="Infanterie Lourde de Yan"/>
+    <string id="NTJDY14" text="Guerrier de la Lame-Po de Yan"/>
+    <string id="NTJDY15" text="Arbalétrier Lourd de Yan"/>
+    <string id="NTJDY16" text="Guerrier Lourd de la Lame-Po de Yan"/>
+    <string id="OTJDY17" text="Recrue Frontalière de Yan"/>
+    <string id="OTJDY18" text="Infanterie frontalière de Yan"/>
+    <string id="OTJDY19" text="Arbalétrier à Répétition de Yan"/>
+    <string id="OTJDY20" text="Hallebardier Frontalier de Yan"/>
+    <string id="OTJDY21" text="Arbalétrier du Protectorat de Yan"/>
+    <string id="OTJDY22" text="Hallebardier du Protectorat de Yan"/>
+    <string id="MLTJDY23" text="Infanterie de Défense de Yan"/>
+    <string id="MLTJDY24" text="Arbalétrier de Défense de Yan"/>
+    <string id="MLTJDY25" text="Infanterie de Défense Armée de Yan"/>
+    <string id="MLTJDY26" text="Arbalétrier de Défense Entrainé de Yan"/>
+    <string id="OTJDY27" text="Arbalétrier Frontalier de Yan"/>
     
   <!-- 普若尤恩 -->
     <string id="NTPRU01" text="Prouen Villager" />
